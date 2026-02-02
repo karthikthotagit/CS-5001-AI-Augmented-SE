@@ -1,40 +1,30 @@
 import json
-from typing import Any
-
+import os
 
 class JSONProcessor:
-    def read_json(self, file_path: str, output: dict) -> int:
+
+    def read_json(self, file_path, output):
         try:
-            with open(file_path, 'r', encoding='utf-8') as file:
-                data = json.load(file)
-        except (FileNotFoundError, OSError):
-            return 0
-        except Exception:
+            with open(file_path, 'r') as file:
+                output = json.load(file)
+                if output is None:
+                    return -1
+        except:
             return -1
 
-        if data is None:
-            return -1
-
-        output.clear()
-        if isinstance(data, dict):
-            output.update(data)
-        else:
-            # Preserve original behavior for non-dict JSON root
-            output["value"] = data
         return 1
 
-    def write_json(self, data: Any, file_path: str) -> int:
+    def write_json(self, data, file_path):
         try:
-            with open(file_path, 'w', encoding='utf-8') as file:
+            with open(file_path, 'w') as file:
                 json.dump(data, file, indent=4)
-        except (FileNotFoundError, OSError):
+        except:
             return -1
-        except Exception:
-            return -1
+
         return 1
 
-    def process_json(self, file_path: str, remove_key: str) -> int:
-        data: dict = {}
+    def process_json(self, file_path, remove_key):
+        data = None
         result = self.read_json(file_path, data)
 
         if result != 1:

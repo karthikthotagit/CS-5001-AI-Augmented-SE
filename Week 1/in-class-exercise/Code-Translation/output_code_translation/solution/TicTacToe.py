@@ -1,9 +1,9 @@
 class TicTacToe:
-    def __init__(self, N: int = 3):
-        self.board = [[' '] * N for _ in range(3)]
+    def __init__(self, N=3):
+        self.board = [[' ' for _ in range(N)] for _ in range(3)]
         self.current_player = 'X'
 
-    def make_move(self, row: int, col: int) -> bool:
+    def make_move(self, row, col):
         if self.board[row][col] == ' ':
             self.board[row][col] = self.current_player
             self.current_player = 'O' if self.current_player == 'X' else 'X'
@@ -11,34 +11,27 @@ class TicTacToe:
         else:
             return False
 
-    def check_winner(self) -> str:
-        # Check rows
+    def check_winner(self):
         for row in self.board:
-            if row[0] != ' ' and row[0] == row[1] == row[2]:
+            if row[0] != ' ' and row[0] == row[1] and row[1] == row[2]:
                 return row[0]
 
-        # Check columns
         for col in range(3):
-            if (self.board[0][col] != ' ' and
-                self.board[0][col] == self.board[1][col] == self.board[2][col]):
+            if self.board[0][col] != ' ' and self.board[0][col] == self.board[1][col] and self.board[1][col] == self.board[2][col]:
                 return self.board[0][col]
 
-        # Check diagonals
-        if (self.board[0][0] != ' ' and
-            self.board[0][0] == self.board[1][1] == self.board[2][2]):
+        if self.board[0][0] != ' ' and self.board[0][0] == self.board[1][1] and self.board[1][1] == self.board[2][2]:
             return self.board[0][0]
 
-        if (self.board[0][2] != ' ' and
-            self.board[0][2] == self.board[1][1] == self.board[2][0]):
+        if self.board[0][2] != ' ' and self.board[0][2] == self.board[1][1] and self.board[1][1] == self.board[2][0]:
             return self.board[0][2]
-
         return '\0'
 
-    def is_board_full(self) -> bool:
+    def is_board_full(self):
         for row in self.board:
             if ' ' in row:
                 return False
         return True
 
-    def get_current_player(self) -> str:
+    def get_current_player(self):
         return self.current_player

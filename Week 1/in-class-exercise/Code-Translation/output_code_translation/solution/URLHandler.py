@@ -1,14 +1,14 @@
 class URLHandler:
-    def __init__(self, url: str):
+    def __init__(self, url):
         self.url = url
 
-    def get_scheme(self) -> str:
+    def get_scheme(self):
         scheme_end = self.url.find("://")
         if scheme_end != -1:
             return self.url[:scheme_end]
         return ""
 
-    def get_host(self) -> str:
+    def get_host(self):
         scheme_end = self.url.find("://")
         if scheme_end != -1:
             url_without_scheme = self.url[scheme_end + 3:]
@@ -18,7 +18,7 @@ class URLHandler:
             return url_without_scheme
         return ""
 
-    def get_path(self) -> str:
+    def get_path(self):
         scheme_end = self.url.find("://")
         if scheme_end != -1:
             url_without_scheme = self.url[scheme_end + 3:]
@@ -27,36 +27,29 @@ class URLHandler:
                 return url_without_scheme[host_end:]
         return ""
 
-    def get_query_params(self) -> dict:
+    def get_query_params(self):
         params = {}
         query_start = self.url.find("?")
         fragment_start = self.url.find("#")
         if query_start != -1:
-            # Determine end of query string
-            end = fragment_start if fragment_start != -1 else len(self.url)
-            query_string = self.url[query_start + 1:end]
+            query_string = self.url[query_start + 1:fragment_start] if fragment_start != -1 else self.url[query_start + 1:]
             if query_string:
-                while True:
-                    pos = query_string.find("&")
-                    if pos == -1:
-                        break
-                    token = query_string[:pos]
+                pos = 0
+                while pos < len(query_string):
+                    next_pos = query_string.find("&", pos)
+                    if next_pos == -1:
+                        next_pos = len(query_string)
+                    token = query_string[pos:next_pos]
                     equal_pos = token.find("=")
                     if equal_pos != -1:
                         key = token[:equal_pos]
                         value = token[equal_pos + 1:]
                         params[key] = value
-                    query_string = query_string[pos + 1:]
-                # Process the last (or only) token
-                equal_pos = query_string.find("=")
-                if equal_pos != -1:
-                    key = query_string[:equal_pos]
-                    value = query_string[equal_pos + 1:]
-                    params[key] = value
+                    pos = next_pos + 1
         return params
 
-    def get_fragment(self) -> str:
+    def get_fragment(self):
         fragment_start = self.url.find("#")
         if fragment_start != -1:
-            return self.url[fragment_start + 1 :]
+            return self.url[fragment_start + 1:]
         return ""

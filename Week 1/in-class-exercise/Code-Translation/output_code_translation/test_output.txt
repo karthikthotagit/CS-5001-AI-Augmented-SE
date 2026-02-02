@@ -1,0 +1,1550 @@
+test_get_cookies (tests_CookiesUtil.CookiesUtilTestGetCookies.test_get_cookies) ... ok
+test_get_cookies_2 (tests_CookiesUtil.CookiesUtilTestGetCookies.test_get_cookies_2) ... ok
+test_get_cookies_3 (tests_CookiesUtil.CookiesUtilTestGetCookies.test_get_cookies_3) ... ok
+test_get_cookies_4 (tests_CookiesUtil.CookiesUtilTestGetCookies.test_get_cookies_4) ... ok
+test_get_cookies_5 (tests_CookiesUtil.CookiesUtilTestGetCookies.test_get_cookies_5) ... ok
+test_load_cookies (tests_CookiesUtil.CookiesUtilTestLoadCookies.test_load_cookies) ... ok
+test_load_cookies_2 (tests_CookiesUtil.CookiesUtilTestLoadCookies.test_load_cookies_2) ... ok
+test_load_cookies_3 (tests_CookiesUtil.CookiesUtilTestLoadCookies.test_load_cookies_3) ... ok
+test_load_cookies_4 (tests_CookiesUtil.CookiesUtilTestLoadCookies.test_load_cookies_4) ... ok
+test_load_cookies_5 (tests_CookiesUtil.CookiesUtilTestLoadCookies.test_load_cookies_5) ... ok
+test_load_cookies_6 (tests_CookiesUtil.CookiesUtilTestLoadCookies.test_load_cookies_6) ... ok
+test_main (tests_CookiesUtil.CookiesUtilTestMain.test_main) ... ok
+test_save_cookies (tests_CookiesUtil.CookiesUtilTestSaveCookies.test_save_cookies) ... ok
+test_save_cookies_2 (tests_CookiesUtil.CookiesUtilTestSaveCookies.test_save_cookies_2) ... ok
+test_save_cookies_3 (tests_CookiesUtil.CookiesUtilTestSaveCookies.test_save_cookies_3) ... ok
+test_save_cookies_4 (tests_CookiesUtil.CookiesUtilTestSaveCookies.test_save_cookies_4) ... ok
+test_save_cookies_5 (tests_CookiesUtil.CookiesUtilTestSaveCookies.test_save_cookies_5) ... ok
+test_save_cookies_6 (tests_CookiesUtil.CookiesUtilTestSaveCookies.test_save_cookies_6) ... ok
+test_set_cookies (tests_CookiesUtil.CookiesUtilTestSetCookies.test_set_cookies) ... ok
+test_currencyconverter (tests_CurrencyConverter.CurrencyConverterTest.test_currencyconverter) ... ok
+test_add_currency_rate_1 (tests_CurrencyConverter.CurrencyConverterTestAddCurrencyRate.test_add_currency_rate_1) ... ok
+test_add_currency_rate_2 (tests_CurrencyConverter.CurrencyConverterTestAddCurrencyRate.test_add_currency_rate_2) ... ok
+test_add_currency_rate_3 (tests_CurrencyConverter.CurrencyConverterTestAddCurrencyRate.test_add_currency_rate_3) ... ok
+test_add_currency_rate_4 (tests_CurrencyConverter.CurrencyConverterTestAddCurrencyRate.test_add_currency_rate_4) ... ok
+test_add_currency_rate_5 (tests_CurrencyConverter.CurrencyConverterTestAddCurrencyRate.test_add_currency_rate_5) ... ok
+test_add_currency_rate_6 (tests_CurrencyConverter.CurrencyConverterTestAddCurrencyRate.test_add_currency_rate_6) ... ok
+test_convert_1 (tests_CurrencyConverter.CurrencyConverterTestConvert.test_convert_1) ... ok
+test_convert_2 (tests_CurrencyConverter.CurrencyConverterTestConvert.test_convert_2) ... ok
+test_convert_3 (tests_CurrencyConverter.CurrencyConverterTestConvert.test_convert_3) ... ok
+test_convert_4 (tests_CurrencyConverter.CurrencyConverterTestConvert.test_convert_4) ... ok
+test_convert_5 (tests_CurrencyConverter.CurrencyConverterTestConvert.test_convert_5) ... ok
+test_convert_6 (tests_CurrencyConverter.CurrencyConverterTestConvert.test_convert_6) ... ok
+test_get_supported_currencies_1 (tests_CurrencyConverter.CurrencyConverterTestGetSupportedCurrencies.test_get_supported_currencies_1) ... ok
+test_get_supported_currencies_2 (tests_CurrencyConverter.CurrencyConverterTestGetSupportedCurrencies.test_get_supported_currencies_2) ... ok
+test_get_supported_currencies_3 (tests_CurrencyConverter.CurrencyConverterTestGetSupportedCurrencies.test_get_supported_currencies_3) ... ok
+test_get_supported_currencies_4 (tests_CurrencyConverter.CurrencyConverterTestGetSupportedCurrencies.test_get_supported_currencies_4) ... ok
+test_get_supported_currencies_5 (tests_CurrencyConverter.CurrencyConverterTestGetSupportedCurrencies.test_get_supported_currencies_5) ... ok
+test_update_currency_rate_1 (tests_CurrencyConverter.CurrencyConverterTestUpdateCurrencyRate.test_update_currency_rate_1) ... ok
+test_update_currency_rate_2 (tests_CurrencyConverter.CurrencyConverterTestUpdateCurrencyRate.test_update_currency_rate_2) ... ok
+test_update_currency_rate_3 (tests_CurrencyConverter.CurrencyConverterTestUpdateCurrencyRate.test_update_currency_rate_3) ... ok
+test_update_currency_rate_4 (tests_CurrencyConverter.CurrencyConverterTestUpdateCurrencyRate.test_update_currency_rate_4) ... ok
+test_update_currency_rate_5 (tests_CurrencyConverter.CurrencyConverterTestUpdateCurrencyRate.test_update_currency_rate_5) ... ok
+test_update_currency_rate_6 (tests_CurrencyConverter.CurrencyConverterTestUpdateCurrencyRate.test_update_currency_rate_6) ... ok
+test_caesar_decipher (tests_DecryptionUtils.DecryptionUtilsTestCaesarDecipher.test_caesar_decipher) ... ok
+test_caesar_decipher_2 (tests_DecryptionUtils.DecryptionUtilsTestCaesarDecipher.test_caesar_decipher_2) ... ok
+test_caesar_decipher_3 (tests_DecryptionUtils.DecryptionUtilsTestCaesarDecipher.test_caesar_decipher_3) ... ok
+test_caesar_decipher_4 (tests_DecryptionUtils.DecryptionUtilsTestCaesarDecipher.test_caesar_decipher_4) ... ok
+test_caesar_decipher_5 (tests_DecryptionUtils.DecryptionUtilsTestCaesarDecipher.test_caesar_decipher_5) ... ok
+test_caesar_decipher_6 (tests_DecryptionUtils.DecryptionUtilsTestCaesarDecipher.test_caesar_decipher_6) ... ok
+test_caesar_decipher_7 (tests_DecryptionUtils.DecryptionUtilsTestCaesarDecipher.test_caesar_decipher_7) ... ok
+test_main (tests_DecryptionUtils.DecryptionUtilsTestMain.test_main) ... ok
+test_rail_fence_decipher (tests_DecryptionUtils.DecryptionUtilsTestRailFenceDecipher.test_rail_fence_decipher) ... ok
+test_rail_fence_decipher_2 (tests_DecryptionUtils.DecryptionUtilsTestRailFenceDecipher.test_rail_fence_decipher_2) ... ok
+test_rail_fence_decipher_3 (tests_DecryptionUtils.DecryptionUtilsTestRailFenceDecipher.test_rail_fence_decipher_3) ... ok
+test_rail_fence_decipher_4 (tests_DecryptionUtils.DecryptionUtilsTestRailFenceDecipher.test_rail_fence_decipher_4) ... ok
+test_rail_fence_decipher_5 (tests_DecryptionUtils.DecryptionUtilsTestRailFenceDecipher.test_rail_fence_decipher_5) ... ok
+test_vigenere_decipher (tests_DecryptionUtils.DecryptionUtilsTestVigenereDecipher.test_vigenere_decipher) ... ok
+test_vigenere_decipher_2 (tests_DecryptionUtils.DecryptionUtilsTestVigenereDecipher.test_vigenere_decipher_2) ... ok
+test_vigenere_decipher_3 (tests_DecryptionUtils.DecryptionUtilsTestVigenereDecipher.test_vigenere_decipher_3) ... ok
+test_vigenere_decipher_4 (tests_DecryptionUtils.DecryptionUtilsTestVigenereDecipher.test_vigenere_decipher_4) ... ok
+test_vigenere_decipher_5 (tests_DecryptionUtils.DecryptionUtilsTestVigenereDecipher.test_vigenere_decipher_5) ... ok
+test_vigenere_decipher_6 (tests_DecryptionUtils.DecryptionUtilsTestVigenereDecipher.test_vigenere_decipher_6) ... ok
+test_caesar_cipher (tests_EncryptionUtils.EncryptionUtilsTestCaesarCipher.test_caesar_cipher) ... ERROR
+test_caesar_cipher_2 (tests_EncryptionUtils.EncryptionUtilsTestCaesarCipher.test_caesar_cipher_2) ... ERROR
+test_caesar_cipher_3 (tests_EncryptionUtils.EncryptionUtilsTestCaesarCipher.test_caesar_cipher_3) ... ok
+test_caesar_cipher_4 (tests_EncryptionUtils.EncryptionUtilsTestCaesarCipher.test_caesar_cipher_4) ... ERROR
+test_caesar_cipher_5 (tests_EncryptionUtils.EncryptionUtilsTestCaesarCipher.test_caesar_cipher_5) ... ERROR
+test_caesar_cipher_6 (tests_EncryptionUtils.EncryptionUtilsTestCaesarCipher.test_caesar_cipher_6) ... ok
+test_main (tests_EncryptionUtils.EncryptionUtilsTestMain.test_main) ... ERROR
+test_rail_fence_cipher (tests_EncryptionUtils.EncryptionUtilsTestRailFenceCipher.test_rail_fence_cipher) ... ok
+test_rail_fence_cipher_2 (tests_EncryptionUtils.EncryptionUtilsTestRailFenceCipher.test_rail_fence_cipher_2) ... ok
+test_rail_fence_cipher_3 (tests_EncryptionUtils.EncryptionUtilsTestRailFenceCipher.test_rail_fence_cipher_3) ... ok
+test_rail_fence_cipher_4 (tests_EncryptionUtils.EncryptionUtilsTestRailFenceCipher.test_rail_fence_cipher_4) ... ok
+test_rail_fence_cipher_5 (tests_EncryptionUtils.EncryptionUtilsTestRailFenceCipher.test_rail_fence_cipher_5) ... ok
+test_rail_fence_cipher_6 (tests_EncryptionUtils.EncryptionUtilsTestRailFenceCipher.test_rail_fence_cipher_6) ... ok
+test_vigenere_cipher (tests_EncryptionUtils.EncryptionUtilsTestVigenereCipher.test_vigenere_cipher) ... ERROR
+test_vigenere_cipher_2 (tests_EncryptionUtils.EncryptionUtilsTestVigenereCipher.test_vigenere_cipher_2) ... ERROR
+test_vigenere_cipher_3 (tests_EncryptionUtils.EncryptionUtilsTestVigenereCipher.test_vigenere_cipher_3) ... ERROR
+test_vigenere_cipher_4 (tests_EncryptionUtils.EncryptionUtilsTestVigenereCipher.test_vigenere_cipher_4) ... ERROR
+test_vigenere_cipher_5 (tests_EncryptionUtils.EncryptionUtilsTestVigenereCipher.test_vigenere_cipher_5) ... ok
+test_main (tests_JSONProcessor.JSONProcessorTestMain.test_main) ... ERROR
+test_process_json_1 (tests_JSONProcessor.JSONProcessorTestProcessJsonExistingKey.test_process_json_1) ... ERROR
+test_process_json_2 (tests_JSONProcessor.JSONProcessorTestProcessJsonExistingKey.test_process_json_2) ... ERROR
+test_process_json_3 (tests_JSONProcessor.JSONProcessorTestProcessJsonExistingKey.test_process_json_3) ... ok
+test_process_json_4 (tests_JSONProcessor.JSONProcessorTestProcessJsonExistingKey.test_process_json_4) ... ERROR
+test_process_json_5 (tests_JSONProcessor.JSONProcessorTestProcessJsonExistingKey.test_process_json_5) ... ERROR
+test_read_json_1 (tests_JSONProcessor.JSONProcessorTestReadJson.test_read_json_1) ... ERROR
+test_read_json_2 (tests_JSONProcessor.JSONProcessorTestReadJson.test_read_json_2) ... ERROR
+test_read_json_3 (tests_JSONProcessor.JSONProcessorTestReadJson.test_read_json_3) ... ERROR
+test_read_json_4 (tests_JSONProcessor.JSONProcessorTestReadJson.test_read_json_4) ... ERROR
+test_read_json_5 (tests_JSONProcessor.JSONProcessorTestReadJson.test_read_json_5) ... ERROR
+test_write_json_1 (tests_JSONProcessor.JSONProcessorTestWriteJson.test_write_json_1) ... ok
+test_write_json_2 (tests_JSONProcessor.JSONProcessorTestWriteJson.test_write_json_2) ... ok
+test_write_json_3 (tests_JSONProcessor.JSONProcessorTestWriteJson.test_write_json_3) ... ok
+test_write_json_4 (tests_JSONProcessor.JSONProcessorTestWriteJson.test_write_json_4) ... ok
+test_write_json_5 (tests_JSONProcessor.JSONProcessorTestWriteJson.test_write_json_5) ... ok
+test_order (tests_Order.OrderTest.test_order) ... ok
+test_add_dish_1 (tests_Order.OrderTestAddDish.test_add_dish_1) ... ok
+test_add_dish_2 (tests_Order.OrderTestAddDish.test_add_dish_2) ... ok
+test_add_dish_3 (tests_Order.OrderTestAddDish.test_add_dish_3) ... ok
+test_add_dish_4 (tests_Order.OrderTestAddDish.test_add_dish_4) ... ok
+test_add_dish_5 (tests_Order.OrderTestAddDish.test_add_dish_5) ... ok
+test_add_dish_6 (tests_Order.OrderTestAddDish.test_add_dish_6) ... ok
+test_calculate_total_1 (tests_Order.OrderTestCalculateTotal.test_calculate_total_1) ... ok
+test_calculate_total_2 (tests_Order.OrderTestCalculateTotal.test_calculate_total_2) ... ok
+test_calculate_total_3 (tests_Order.OrderTestCalculateTotal.test_calculate_total_3) ... ok
+test_calculate_total_4 (tests_Order.OrderTestCalculateTotal.test_calculate_total_4) ... ok
+test_calculate_total_5 (tests_Order.OrderTestCalculateTotal.test_calculate_total_5) ... ok
+test_checkout_1 (tests_Order.OrderTestCheckout.test_checkout_1) ... ok
+test_checkout_2 (tests_Order.OrderTestCheckout.test_checkout_2) ... ok
+test_checkout_3 (tests_Order.OrderTestCheckout.test_checkout_3) ... ok
+test_checkout_4 (tests_Order.OrderTestCheckout.test_checkout_4) ... ok
+test_checkout_5 (tests_Order.OrderTestCheckout.test_checkout_5) ... ok
+test_check_win_1 (tests_PushBoxGame.PushBoxGameTestCheckWin.test_check_win_1) ... ok
+test_check_win_2 (tests_PushBoxGame.PushBoxGameTestCheckWin.test_check_win_2) ... ok
+test_init_game_1 (tests_PushBoxGame.PushBoxGameTestInitGame.test_init_game_1) ... ok
+test_init_game_2 (tests_PushBoxGame.PushBoxGameTestInitGame.test_init_game_2) ... FAIL
+test_init_game_3 (tests_PushBoxGame.PushBoxGameTestInitGame.test_init_game_3) ... ok
+test_init_game_4 (tests_PushBoxGame.PushBoxGameTestInitGame.test_init_game_4) ... ok
+test_init_game_5 (tests_PushBoxGame.PushBoxGameTestInitGame.test_init_game_5) ... ok
+test_init_game_6 (tests_PushBoxGame.PushBoxGameTestInitGame.test_init_game_6) ... ok
+test_init_game_7 (tests_PushBoxGame.PushBoxGameTestInitGame.test_init_game_7) ... ok
+test_move_1 (tests_PushBoxGame.PushBoxGameTestMove.test_move_1) ... ok
+test_move_2 (tests_PushBoxGame.PushBoxGameTestMove.test_move_2) ... FAIL
+test_move_3 (tests_PushBoxGame.PushBoxGameTestMove.test_move_3) ... FAIL
+test_move_4 (tests_PushBoxGame.PushBoxGameTestMove.test_move_4) ... FAIL
+test_move_5 (tests_PushBoxGame.PushBoxGameTestMove.test_move_5) ... FAIL
+test_move_6 (tests_PushBoxGame.PushBoxGameTestMove.test_move_6) ... FAIL
+test_move_7 (tests_PushBoxGame.PushBoxGameTestMove.test_move_7) ... FAIL
+test_regexutils (tests_RegexUtils.RegexUtilsTest.test_regexutils) ... FAIL
+test_extract_email_1 (tests_RegexUtils.RegexUtilsTestExtractEmail.test_extract_email_1) ... ok
+test_extract_email_2 (tests_RegexUtils.RegexUtilsTestExtractEmail.test_extract_email_2) ... ok
+test_extract_email_3 (tests_RegexUtils.RegexUtilsTestExtractEmail.test_extract_email_3) ... ok
+test_extract_email_4 (tests_RegexUtils.RegexUtilsTestExtractEmail.test_extract_email_4) ... ok
+test_extract_email_5 (tests_RegexUtils.RegexUtilsTestExtractEmail.test_extract_email_5) ... ok
+test_findall_1 (tests_RegexUtils.RegexUtilsTestFindall.test_findall_1) ... ok
+test_findall_2 (tests_RegexUtils.RegexUtilsTestFindall.test_findall_2) ... ok
+test_findall_3 (tests_RegexUtils.RegexUtilsTestFindall.test_findall_3) ... ok
+test_findall_4 (tests_RegexUtils.RegexUtilsTestFindall.test_findall_4) ... ok
+test_findall_5 (tests_RegexUtils.RegexUtilsTestFindall.test_findall_5) ... ok
+test_generate_email_pattern_1 (tests_RegexUtils.RegexUtilsTestGenerateEmailPattern.test_generate_email_pattern_1) ... ok
+test_generate_email_pattern_2 (tests_RegexUtils.RegexUtilsTestGenerateEmailPattern.test_generate_email_pattern_2) ... ok
+test_generate_email_pattern_3 (tests_RegexUtils.RegexUtilsTestGenerateEmailPattern.test_generate_email_pattern_3) ... ok
+test_generate_email_pattern_4 (tests_RegexUtils.RegexUtilsTestGenerateEmailPattern.test_generate_email_pattern_4) ... ok
+test_generate_email_pattern_5 (tests_RegexUtils.RegexUtilsTestGenerateEmailPattern.test_generate_email_pattern_5) ... ok
+test_generate_phone_number_pattern_1 (tests_RegexUtils.RegexUtilsTestGeneratePhoneNumberPattern.test_generate_phone_number_pattern_1) ... ok
+test_generate_phone_number_pattern_2 (tests_RegexUtils.RegexUtilsTestGeneratePhoneNumberPattern.test_generate_phone_number_pattern_2) ... ok
+test_generate_phone_number_pattern_3 (tests_RegexUtils.RegexUtilsTestGeneratePhoneNumberPattern.test_generate_phone_number_pattern_3) ... ok
+test_generate_phone_number_pattern_4 (tests_RegexUtils.RegexUtilsTestGeneratePhoneNumberPattern.test_generate_phone_number_pattern_4) ... ok
+test_generate_phone_number_pattern_5 (tests_RegexUtils.RegexUtilsTestGeneratePhoneNumberPattern.test_generate_phone_number_pattern_5) ... ok
+test_generate_split_sentences_pattern_1 (tests_RegexUtils.RegexUtilsTestGenerateSplitSentencesPattern.test_generate_split_sentences_pattern_1) ... ok
+test_generate_split_sentences_pattern_2 (tests_RegexUtils.RegexUtilsTestGenerateSplitSentencesPattern.test_generate_split_sentences_pattern_2) ... ok
+test_generate_split_sentences_pattern_3 (tests_RegexUtils.RegexUtilsTestGenerateSplitSentencesPattern.test_generate_split_sentences_pattern_3) ... ok
+test_generate_split_sentences_pattern_4 (tests_RegexUtils.RegexUtilsTestGenerateSplitSentencesPattern.test_generate_split_sentences_pattern_4) ... ok
+test_generate_split_sentences_pattern_5 (tests_RegexUtils.RegexUtilsTestGenerateSplitSentencesPattern.test_generate_split_sentences_pattern_5) ... ok
+test_match_1 (tests_RegexUtils.RegexUtilsTestMatch.test_match_1) ... ok
+test_match_2 (tests_RegexUtils.RegexUtilsTestMatch.test_match_2) ... ok
+test_match_3 (tests_RegexUtils.RegexUtilsTestMatch.test_match_3) ... ok
+test_match_4 (tests_RegexUtils.RegexUtilsTestMatch.test_match_4) ... ok
+test_match_5 (tests_RegexUtils.RegexUtilsTestMatch.test_match_5) ... ok
+test_split_1 (tests_RegexUtils.RegexUtilsTestSplit.test_split_1) ... FAIL
+test_split_2 (tests_RegexUtils.RegexUtilsTestSplit.test_split_2) ... ok
+test_split_3 (tests_RegexUtils.RegexUtilsTestSplit.test_split_3) ... FAIL
+test_split_4 (tests_RegexUtils.RegexUtilsTestSplit.test_split_4) ... FAIL
+test_split_5 (tests_RegexUtils.RegexUtilsTestSplit.test_split_5) ... FAIL
+test_split_sentences_1 (tests_RegexUtils.RegexUtilsTestSplitSentences.test_split_sentences_1) ... ok
+test_split_sentences_2 (tests_RegexUtils.RegexUtilsTestSplitSentences.test_split_sentences_2) ... ok
+test_split_sentences_3 (tests_RegexUtils.RegexUtilsTestSplitSentences.test_split_sentences_3) ... ok
+test_split_sentences_4 (tests_RegexUtils.RegexUtilsTestSplitSentences.test_split_sentences_4) ... ok
+test_split_sentences_5 (tests_RegexUtils.RegexUtilsTestSplitSentences.test_split_sentences_5) ... ok
+test_sub_1 (tests_RegexUtils.RegexUtilsTestSub.test_sub_1) ... ok
+test_sub_2 (tests_RegexUtils.RegexUtilsTestSub.test_sub_2) ... ok
+test_sub_3 (tests_RegexUtils.RegexUtilsTestSub.test_sub_3) ... ok
+test_sub_4 (tests_RegexUtils.RegexUtilsTestSub.test_sub_4) ... ok
+test_sub_5 (tests_RegexUtils.RegexUtilsTestSub.test_sub_5) ... ok
+test_validate_phone_number_1 (tests_RegexUtils.RegexUtilsTestValidatePhoneNumber.test_validate_phone_number_1) ... ok
+test_validate_phone_number_2 (tests_RegexUtils.RegexUtilsTestValidatePhoneNumber.test_validate_phone_number_2) ... ok
+test_validate_phone_number_3 (tests_RegexUtils.RegexUtilsTestValidatePhoneNumber.test_validate_phone_number_3) ... ok
+test_validate_phone_number_4 (tests_RegexUtils.RegexUtilsTestValidatePhoneNumber.test_validate_phone_number_4) ... ok
+test_validate_phone_number_5 (tests_RegexUtils.RegexUtilsTestValidatePhoneNumber.test_validate_phone_number_5) ... ok
+test_delete (tests_SQLGenerator.SQLGeneratorTestDelete.test_delete) ... ERROR
+test_delete_2 (tests_SQLGenerator.SQLGeneratorTestDelete.test_delete_2) ... ERROR
+test_delete_3 (tests_SQLGenerator.SQLGeneratorTestDelete.test_delete_3) ... ERROR
+test_delete_4 (tests_SQLGenerator.SQLGeneratorTestDelete.test_delete_4) ... ERROR
+test_delete_5 (tests_SQLGenerator.SQLGeneratorTestDelete.test_delete_5) ... ERROR
+test_insert (tests_SQLGenerator.SQLGeneratorTestInsert.test_insert) ... ok
+test_insert_2 (tests_SQLGenerator.SQLGeneratorTestInsert.test_insert_2) ... ok
+test_insert_3 (tests_SQLGenerator.SQLGeneratorTestInsert.test_insert_3) ... ok
+test_insert_4 (tests_SQLGenerator.SQLGeneratorTestInsert.test_insert_4) ... ok
+test_insert_5 (tests_SQLGenerator.SQLGeneratorTestInsert.test_insert_5) ... ok
+test_main (tests_SQLGenerator.SQLGeneratorTestMain.test_main) ... ERROR
+test_select_1 (tests_SQLGenerator.SQLGeneratorTestSelect.test_select_1) ... ok
+test_select_2 (tests_SQLGenerator.SQLGeneratorTestSelect.test_select_2) ... ok
+test_select_3 (tests_SQLGenerator.SQLGeneratorTestSelect.test_select_3) ... ok
+test_select_4 (tests_SQLGenerator.SQLGeneratorTestSelect.test_select_4) ... ok
+test_select_5 (tests_SQLGenerator.SQLGeneratorTestSelect.test_select_5) ... ok
+test_select_6 (tests_SQLGenerator.SQLGeneratorTestSelect.test_select_6) ... ok
+test_select_by_age_range (tests_SQLGenerator.SQLGeneratorTestSelectByAgeRange.test_select_by_age_range) ... ok
+test_select_by_age_range_2 (tests_SQLGenerator.SQLGeneratorTestSelectByAgeRange.test_select_by_age_range_2) ... ok
+test_select_by_age_range_3 (tests_SQLGenerator.SQLGeneratorTestSelectByAgeRange.test_select_by_age_range_3) ... ok
+test_select_by_age_range_4 (tests_SQLGenerator.SQLGeneratorTestSelectByAgeRange.test_select_by_age_range_4) ... ok
+test_select_by_age_range_5 (tests_SQLGenerator.SQLGeneratorTestSelectByAgeRange.test_select_by_age_range_5) ... ok
+test_select_female_under_age (tests_SQLGenerator.SQLGeneratorTestSelectFemaleUnderAge.test_select_female_under_age) ... ok
+test_select_female_under_age_2 (tests_SQLGenerator.SQLGeneratorTestSelectFemaleUnderAge.test_select_female_under_age_2) ... ok
+test_select_female_under_age_3 (tests_SQLGenerator.SQLGeneratorTestSelectFemaleUnderAge.test_select_female_under_age_3) ... ok
+test_select_female_under_age_4 (tests_SQLGenerator.SQLGeneratorTestSelectFemaleUnderAge.test_select_female_under_age_4) ... ok
+test_select_female_under_age_5 (tests_SQLGenerator.SQLGeneratorTestSelectFemaleUnderAge.test_select_female_under_age_5) ... ok
+test_update (tests_SQLGenerator.SQLGeneratorTestUpdate.test_update) ... ok
+test_update_2 (tests_SQLGenerator.SQLGeneratorTestUpdate.test_update_2) ... ok
+test_update_3 (tests_SQLGenerator.SQLGeneratorTestUpdate.test_update_3) ... ok
+test_update_4 (tests_SQLGenerator.SQLGeneratorTestUpdate.test_update_4) ... ok
+test_update_5 (tests_SQLGenerator.SQLGeneratorTestUpdate.test_update_5) ... ok
+test_delete_1 (tests_SQLQueryBuilder.SQLQueryBuilderTestDetele.test_delete_1) ... ERROR
+test_delete_2 (tests_SQLQueryBuilder.SQLQueryBuilderTestDetele.test_delete_2) ... ERROR
+test_delete_3 (tests_SQLQueryBuilder.SQLQueryBuilderTestDetele.test_delete_3) ... ERROR
+test_delete_4 (tests_SQLQueryBuilder.SQLQueryBuilderTestDetele.test_delete_4) ... ERROR
+test_delete_5 (tests_SQLQueryBuilder.SQLQueryBuilderTestDetele.test_delete_5) ... ERROR
+test_delete_6 (tests_SQLQueryBuilder.SQLQueryBuilderTestDetele.test_delete_6) ... ERROR
+test_insert_1 (tests_SQLQueryBuilder.SQLQueryBuilderTestInsert.test_insert_1) ... FAIL
+test_insert_2 (tests_SQLQueryBuilder.SQLQueryBuilderTestInsert.test_insert_2) ... FAIL
+test_insert_3 (tests_SQLQueryBuilder.SQLQueryBuilderTestInsert.test_insert_3) ... FAIL
+test_insert_4 (tests_SQLQueryBuilder.SQLQueryBuilderTestInsert.test_insert_4) ... FAIL
+test_insert_5 (tests_SQLQueryBuilder.SQLQueryBuilderTestInsert.test_insert_5) ... FAIL
+test_main (tests_SQLQueryBuilder.SQLQueryBuilderTestMain.test_main) ... ERROR
+test_select_1 (tests_SQLQueryBuilder.SQLQueryBuilderTestSelect.test_select_1) ... ERROR
+test_select_2 (tests_SQLQueryBuilder.SQLQueryBuilderTestSelect.test_select_2) ... ERROR
+test_select_3 (tests_SQLQueryBuilder.SQLQueryBuilderTestSelect.test_select_3) ... ERROR
+test_select_4 (tests_SQLQueryBuilder.SQLQueryBuilderTestSelect.test_select_4) ... ERROR
+test_select_5 (tests_SQLQueryBuilder.SQLQueryBuilderTestSelect.test_select_5) ... ERROR
+test_select_6 (tests_SQLQueryBuilder.SQLQueryBuilderTestSelect.test_select_6) ... ok
+test_select_7 (tests_SQLQueryBuilder.SQLQueryBuilderTestSelect.test_select_7) ... ok
+test_update_1 (tests_SQLQueryBuilder.SQLQueryBuilderTestUpdate.test_update_1) ... FAIL
+test_update_2 (tests_SQLQueryBuilder.SQLQueryBuilderTestUpdate.test_update_2) ... FAIL
+test_update_3 (tests_SQLQueryBuilder.SQLQueryBuilderTestUpdate.test_update_3) ... FAIL
+test_update_4 (tests_SQLQueryBuilder.SQLQueryBuilderTestUpdate.test_update_4) ... FAIL
+test_update_5 (tests_SQLQueryBuilder.SQLQueryBuilderTestUpdate.test_update_5) ... FAIL
+test_update_6 (tests_SQLQueryBuilder.SQLQueryBuilderTestUpdate.test_update_6) ... FAIL
+test_server (tests_Server.ServerTest.test_server) ... FAIL
+test_add_white_list_1 (tests_Server.ServerTestAddWhiteList.test_add_white_list_1) ... ok
+test_add_white_list_2 (tests_Server.ServerTestAddWhiteList.test_add_white_list_2) ... FAIL
+test_add_white_list_3 (tests_Server.ServerTestAddWhiteList.test_add_white_list_3) ... FAIL
+test_add_white_list_4 (tests_Server.ServerTestAddWhiteList.test_add_white_list_4) ... ok
+test_add_white_list_5 (tests_Server.ServerTestAddWhiteList.test_add_white_list_5) ... FAIL
+test_del_white_list_1 (tests_Server.ServerTestDelWhiteList.test_del_white_list_1) ... ok
+test_del_white_list_2 (tests_Server.ServerTestDelWhiteList.test_del_white_list_2) ... FAIL
+test_del_white_list_3 (tests_Server.ServerTestDelWhiteList.test_del_white_list_3) ... FAIL
+test_del_white_list_4 (tests_Server.ServerTestDelWhiteList.test_del_white_list_4) ... FAIL
+test_del_white_list_5 (tests_Server.ServerTestDelWhiteList.test_del_white_list_5) ... FAIL
+test_recv_1 (tests_Server.ServerTestRecv.test_recv_1) ... FAIL
+test_recv_2 (tests_Server.ServerTestRecv.test_recv_2) ... ok
+test_recv_3 (tests_Server.ServerTestRecv.test_recv_3) ... ok
+test_recv_4 (tests_Server.ServerTestRecv.test_recv_4) ... ok
+test_recv_5 (tests_Server.ServerTestRecv.test_recv_5) ... ok
+test_send_1 (tests_Server.ServerTestSend.test_send_1) ... ok
+test_send_2 (tests_Server.ServerTestSend.test_send_2) ... ok
+test_send_3 (tests_Server.ServerTestSend.test_send_3) ... ok
+test_send_4 (tests_Server.ServerTestSend.test_send_4) ... ok
+test_send_5 (tests_Server.ServerTestSend.test_send_5) ... ok
+test_show_1 (tests_Server.ServerTestShow.test_show_1) ... ok
+test_show_2 (tests_Server.ServerTestShow.test_show_2) ... FAIL
+test_show_3 (tests_Server.ServerTestShow.test_show_3) ... FAIL
+test_show_4 (tests_Server.ServerTestShow.test_show_4) ... ok
+test_show_5 (tests_Server.ServerTestShow.test_show_5) ... ok
+test_shoppingcart (tests_ShoppingCart.ShoppingCartTest.test_shoppingcart) ... ok
+test_add_item_1 (tests_ShoppingCart.ShoppingCartTestAddItem.test_add_item_1) ... ok
+test_add_item_2 (tests_ShoppingCart.ShoppingCartTestAddItem.test_add_item_2) ... ok
+test_add_item_3 (tests_ShoppingCart.ShoppingCartTestAddItem.test_add_item_3) ... ok
+test_add_item_4 (tests_ShoppingCart.ShoppingCartTestAddItem.test_add_item_4) ... ok
+test_add_item_5 (tests_ShoppingCart.ShoppingCartTestAddItem.test_add_item_5) ... ok
+test_add_item_6 (tests_ShoppingCart.ShoppingCartTestAddItem.test_add_item_6) ... ok
+test_remove_item_1 (tests_ShoppingCart.ShoppingCartTestRemoveItem.test_remove_item_1) ... ok
+test_remove_item_2 (tests_ShoppingCart.ShoppingCartTestRemoveItem.test_remove_item_2) ... ok
+test_remove_item_3 (tests_ShoppingCart.ShoppingCartTestRemoveItem.test_remove_item_3) ... ok
+test_remove_item_4 (tests_ShoppingCart.ShoppingCartTestRemoveItem.test_remove_item_4) ... ok
+test_remove_item_5 (tests_ShoppingCart.ShoppingCartTestRemoveItem.test_remove_item_5) ... ok
+test_remove_item_6 (tests_ShoppingCart.ShoppingCartTestRemoveItem.test_remove_item_6) ... ok
+test_total_price_1 (tests_ShoppingCart.ShoppingCartTestTotalPrice.test_total_price_1) ... ok
+test_total_price_2 (tests_ShoppingCart.ShoppingCartTestTotalPrice.test_total_price_2) ... ok
+test_total_price_3 (tests_ShoppingCart.ShoppingCartTestTotalPrice.test_total_price_3) ... ok
+test_total_price_4 (tests_ShoppingCart.ShoppingCartTestTotalPrice.test_total_price_4) ... ok
+test_total_price_5 (tests_ShoppingCart.ShoppingCartTestTotalPrice.test_total_price_5) ... ok
+test_view_items_1 (tests_ShoppingCart.ShoppingCartTestViewItems.test_view_items_1) ... ok
+test_view_items_2 (tests_ShoppingCart.ShoppingCartTestViewItems.test_view_items_2) ... ok
+test_view_items_3 (tests_ShoppingCart.ShoppingCartTestViewItems.test_view_items_3) ... ok
+test_view_items_4 (tests_ShoppingCart.ShoppingCartTestViewItems.test_view_items_4) ... ok
+test_view_items_5 (tests_ShoppingCart.ShoppingCartTestViewItems.test_view_items_5) ... ok
+test_add_stock (tests_StockPortfolioTracker.StockPortfolioTrackerTestAddStock.test_add_stock) ... ok
+test_add_stock_2 (tests_StockPortfolioTracker.StockPortfolioTrackerTestAddStock.test_add_stock_2) ... ok
+test_add_stock_3 (tests_StockPortfolioTracker.StockPortfolioTrackerTestAddStock.test_add_stock_3) ... ok
+test_add_stock_4 (tests_StockPortfolioTracker.StockPortfolioTrackerTestAddStock.test_add_stock_4) ... ok
+test_add_stock_5 (tests_StockPortfolioTracker.StockPortfolioTrackerTestAddStock.test_add_stock_5) ... ok
+test_buy_stock (tests_StockPortfolioTracker.StockPortfolioTrackerTestBuyStock.test_buy_stock) ... ok
+test_buy_stock_2 (tests_StockPortfolioTracker.StockPortfolioTrackerTestBuyStock.test_buy_stock_2) ... ok
+test_buy_stock_3 (tests_StockPortfolioTracker.StockPortfolioTrackerTestBuyStock.test_buy_stock_3) ... ok
+test_buy_stock_4 (tests_StockPortfolioTracker.StockPortfolioTrackerTestBuyStock.test_buy_stock_4) ... ok
+test_buy_stock_5 (tests_StockPortfolioTracker.StockPortfolioTrackerTestBuyStock.test_buy_stock_5) ... ok
+test_calculate_portfolio_value (tests_StockPortfolioTracker.StockPortfolioTrackerTestCalculatePortfolioValue.test_calculate_portfolio_value) ... ok
+test_calculate_portfolio_value_2 (tests_StockPortfolioTracker.StockPortfolioTrackerTestCalculatePortfolioValue.test_calculate_portfolio_value_2) ... ok
+test_calculate_portfolio_value_3 (tests_StockPortfolioTracker.StockPortfolioTrackerTestCalculatePortfolioValue.test_calculate_portfolio_value_3) ... ok
+test_calculate_portfolio_value_4 (tests_StockPortfolioTracker.StockPortfolioTrackerTestCalculatePortfolioValue.test_calculate_portfolio_value_4) ... ok
+test_calculate_portfolio_value_5 (tests_StockPortfolioTracker.StockPortfolioTrackerTestCalculatePortfolioValue.test_calculate_portfolio_value_5) ... ok
+test_get_portfolio_summary (tests_StockPortfolioTracker.StockPortfolioTrackerTestGetPortfolioSummary.test_get_portfolio_summary) ... ok
+test_get_portfolio_summary_2 (tests_StockPortfolioTracker.StockPortfolioTrackerTestGetPortfolioSummary.test_get_portfolio_summary_2) ... ok
+test_get_portfolio_summary_3 (tests_StockPortfolioTracker.StockPortfolioTrackerTestGetPortfolioSummary.test_get_portfolio_summary_3) ... ok
+test_get_portfolio_summary_4 (tests_StockPortfolioTracker.StockPortfolioTrackerTestGetPortfolioSummary.test_get_portfolio_summary_4) ... ok
+test_get_portfolio_summary_5 (tests_StockPortfolioTracker.StockPortfolioTrackerTestGetPortfolioSummary.test_get_portfolio_summary_5) ... ok
+test_get_stock_value (tests_StockPortfolioTracker.StockPortfolioTrackerTestGetStockValue.test_get_stock_value) ... ok
+test_get_stock_value_2 (tests_StockPortfolioTracker.StockPortfolioTrackerTestGetStockValue.test_get_stock_value_2) ... ok
+test_get_stock_value_3 (tests_StockPortfolioTracker.StockPortfolioTrackerTestGetStockValue.test_get_stock_value_3) ... ok
+test_get_stock_value_4 (tests_StockPortfolioTracker.StockPortfolioTrackerTestGetStockValue.test_get_stock_value_4) ... ok
+test_get_stock_value_5 (tests_StockPortfolioTracker.StockPortfolioTrackerTestGetStockValue.test_get_stock_value_5) ... ok
+test_main (tests_StockPortfolioTracker.StockPortfolioTrackerTestMain.test_main) ... ok
+test_main_2 (tests_StockPortfolioTracker.StockPortfolioTrackerTestMain.test_main_2) ... ok
+test_main_3 (tests_StockPortfolioTracker.StockPortfolioTrackerTestMain.test_main_3) ... ok
+test_remove_stock (tests_StockPortfolioTracker.StockPortfolioTrackerTestRemoveStock.test_remove_stock) ... ok
+test_remove_stock_2 (tests_StockPortfolioTracker.StockPortfolioTrackerTestRemoveStock.test_remove_stock_2) ... ok
+test_remove_stock_3 (tests_StockPortfolioTracker.StockPortfolioTrackerTestRemoveStock.test_remove_stock_3) ... ok
+test_remove_stock_4 (tests_StockPortfolioTracker.StockPortfolioTrackerTestRemoveStock.test_remove_stock_4) ... ok
+test_remove_stock_5 (tests_StockPortfolioTracker.StockPortfolioTrackerTestRemoveStock.test_remove_stock_5) ... ok
+test_sell_stock (tests_StockPortfolioTracker.StockPortfolioTrackerTestSellStock.test_sell_stock) ... ok
+test_sell_stock_2 (tests_StockPortfolioTracker.StockPortfolioTrackerTestSellStock.test_sell_stock_2) ... ok
+test_sell_stock_3 (tests_StockPortfolioTracker.StockPortfolioTrackerTestSellStock.test_sell_stock_3) ... ok
+test_sell_stock_4 (tests_StockPortfolioTracker.StockPortfolioTrackerTestSellStock.test_sell_stock_4) ... ok
+test_sell_stock_5 (tests_StockPortfolioTracker.StockPortfolioTrackerTestSellStock.test_sell_stock_5) ... ok
+test_main (tests_TextFileProcessor.TextFileProcessorTestMain.test_main) ... ok
+test_process_file_1 (tests_TextFileProcessor.TextFileProcessorTestProcessFile.test_process_file_1) ... ok
+test_process_file_2 (tests_TextFileProcessor.TextFileProcessorTestProcessFile.test_process_file_2) ... ok
+test_process_file_3 (tests_TextFileProcessor.TextFileProcessorTestProcessFile.test_process_file_3) ... ok
+test_process_file_4 (tests_TextFileProcessor.TextFileProcessorTestProcessFile.test_process_file_4) ... ok
+test_process_file_5 (tests_TextFileProcessor.TextFileProcessorTestProcessFile.test_process_file_5) ... ok
+test_read_file_1 (tests_TextFileProcessor.TextFileProcessorTestReadFile.test_read_file_1) ... ok
+test_read_file_2 (tests_TextFileProcessor.TextFileProcessorTestReadFile.test_read_file_2) ... ok
+test_read_file_3 (tests_TextFileProcessor.TextFileProcessorTestReadFile.test_read_file_3) ... ok
+test_read_file_4 (tests_TextFileProcessor.TextFileProcessorTestReadFile.test_read_file_4) ... ok
+test_read_file_5 (tests_TextFileProcessor.TextFileProcessorTestReadFile.test_read_file_5) ... ok
+test_read_file_as_json_1 (tests_TextFileProcessor.TextFileProcessorTestReadFileAsJson.test_read_file_as_json_1) ... ok
+test_read_file_as_json_2 (tests_TextFileProcessor.TextFileProcessorTestReadFileAsJson.test_read_file_as_json_2) ... ok
+test_read_file_as_json_3 (tests_TextFileProcessor.TextFileProcessorTestReadFileAsJson.test_read_file_as_json_3) ... ok
+test_read_file_as_json_4 (tests_TextFileProcessor.TextFileProcessorTestReadFileAsJson.test_read_file_as_json_4) ... ok
+test_read_file_as_json_5 (tests_TextFileProcessor.TextFileProcessorTestReadFileAsJson.test_read_file_as_json_5) ... ok
+test_write_file_1 (tests_TextFileProcessor.TextFileProcessorTestWriteFile.test_write_file_1) ... ok
+test_write_file_2 (tests_TextFileProcessor.TextFileProcessorTestWriteFile.test_write_file_2) ... ok
+test_write_file_3 (tests_TextFileProcessor.TextFileProcessorTestWriteFile.test_write_file_3) ... ok
+test_write_file_4 (tests_TextFileProcessor.TextFileProcessorTestWriteFile.test_write_file_4) ... ok
+test_write_file_5 (tests_TextFileProcessor.TextFileProcessorTestWriteFile.test_write_file_5) ... ok
+test_check_winner_1 (tests_TicTacToe.TicTacToeTestCheckWinner.test_check_winner_1) ... ok
+test_check_winner_2 (tests_TicTacToe.TicTacToeTestCheckWinner.test_check_winner_2) ... ok
+test_check_winner_3 (tests_TicTacToe.TicTacToeTestCheckWinner.test_check_winner_3) ... ok
+test_check_winner_4 (tests_TicTacToe.TicTacToeTestCheckWinner.test_check_winner_4) ... ok
+test_check_winner_5 (tests_TicTacToe.TicTacToeTestCheckWinner.test_check_winner_5) ... FAIL
+test_is_board_full_1 (tests_TicTacToe.TicTacToeTestIsBoardFull.test_is_board_full_1) ... ok
+test_is_board_full_2 (tests_TicTacToe.TicTacToeTestIsBoardFull.test_is_board_full_2) ... ok
+test_is_board_full_3 (tests_TicTacToe.TicTacToeTestIsBoardFull.test_is_board_full_3) ... ok
+test_is_board_full_4 (tests_TicTacToe.TicTacToeTestIsBoardFull.test_is_board_full_4) ... ok
+test_is_board_full_5 (tests_TicTacToe.TicTacToeTestIsBoardFull.test_is_board_full_5) ... ok
+test_main (tests_TicTacToe.TicTacToeTestMain.test_main) ... FAIL
+test_make_move_1 (tests_TicTacToe.TicTacToeTestMakeMove.test_make_move_1) ... ok
+test_make_move_2 (tests_TicTacToe.TicTacToeTestMakeMove.test_make_move_2) ... ok
+test_make_move_3 (tests_TicTacToe.TicTacToeTestMakeMove.test_make_move_3) ... ok
+test_make_move_4 (tests_TicTacToe.TicTacToeTestMakeMove.test_make_move_4) ... ok
+test_make_move_5 (tests_TicTacToe.TicTacToeTestMakeMove.test_make_move_5) ... ok
+test_urlhandler (tests_URLHandler.URLHandlerTest.test_urlhandler) ... ok
+test_get_fragment_1 (tests_URLHandler.URLHandlerTestGetFragment.test_get_fragment_1) ... ok
+test_get_fragment_2 (tests_URLHandler.URLHandlerTestGetFragment.test_get_fragment_2) ... FAIL
+test_get_fragment_3 (tests_URLHandler.URLHandlerTestGetFragment.test_get_fragment_3) ... ok
+test_get_fragment_4 (tests_URLHandler.URLHandlerTestGetFragment.test_get_fragment_4) ... ok
+test_get_fragment_5 (tests_URLHandler.URLHandlerTestGetFragment.test_get_fragment_5) ... ok
+test_get_host_1 (tests_URLHandler.URLHandlerTestGetHost.test_get_host_1) ... ok
+test_get_host_2 (tests_URLHandler.URLHandlerTestGetHost.test_get_host_2) ... ok
+test_get_host_3 (tests_URLHandler.URLHandlerTestGetHost.test_get_host_3) ... ok
+test_get_host_4 (tests_URLHandler.URLHandlerTestGetHost.test_get_host_4) ... ok
+test_get_host_5 (tests_URLHandler.URLHandlerTestGetHost.test_get_host_5) ... ok
+test_get_host_6 (tests_URLHandler.URLHandlerTestGetHost.test_get_host_6) ... FAIL
+test_get_host_7 (tests_URLHandler.URLHandlerTestGetHost.test_get_host_7) ... ok
+test_get_host_8 (tests_URLHandler.URLHandlerTestGetHost.test_get_host_8) ... ok
+test_get_path_1 (tests_URLHandler.URLHandlerTestGetPath.test_get_path_1) ... ok
+test_get_path_2 (tests_URLHandler.URLHandlerTestGetPath.test_get_path_2) ... ok
+test_get_path_3 (tests_URLHandler.URLHandlerTestGetPath.test_get_path_3) ... ok
+test_get_path_4 (tests_URLHandler.URLHandlerTestGetPath.test_get_path_4) ... ok
+test_get_path_5 (tests_URLHandler.URLHandlerTestGetPath.test_get_path_5) ... ok
+test_get_path_6 (tests_URLHandler.URLHandlerTestGetPath.test_get_path_6) ... FAIL
+test_get_query_params_1 (tests_URLHandler.URLHandlerTestGetQueryParams.test_get_query_params_1) ... ok
+test_get_query_params_2 (tests_URLHandler.URLHandlerTestGetQueryParams.test_get_query_params_2) ... ok
+test_get_query_params_3 (tests_URLHandler.URLHandlerTestGetQueryParams.test_get_query_params_3) ... FAIL
+test_get_query_params_4 (tests_URLHandler.URLHandlerTestGetQueryParams.test_get_query_params_4) ... ok
+test_get_query_params_5 (tests_URLHandler.URLHandlerTestGetQueryParams.test_get_query_params_5) ... ok
+test_get_query_params_6 (tests_URLHandler.URLHandlerTestGetQueryParams.test_get_query_params_6) ... ok
+test_get_scheme_1 (tests_URLHandler.URLHandlerTestGetScheme.test_get_scheme_1) ... ok
+test_get_scheme_2 (tests_URLHandler.URLHandlerTestGetScheme.test_get_scheme_2) ... ok
+test_get_scheme_3 (tests_URLHandler.URLHandlerTestGetScheme.test_get_scheme_3) ... ok
+test_get_scheme_4 (tests_URLHandler.URLHandlerTestGetScheme.test_get_scheme_4) ... ok
+test_get_scheme_5 (tests_URLHandler.URLHandlerTestGetScheme.test_get_scheme_5) ... ok
+test_get_scheme_6 (tests_URLHandler.URLHandlerTestGetScheme.test_get_scheme_6) ... FAIL
+test_add_item (tests_VendingMachine.VendingMachineTestAddItem.test_add_item) ... FAIL
+test_add_item_2 (tests_VendingMachine.VendingMachineTestAddItem.test_add_item_2) ... FAIL
+test_add_item_3 (tests_VendingMachine.VendingMachineTestAddItem.test_add_item_3) ... FAIL
+test_add_item_4 (tests_VendingMachine.VendingMachineTestAddItem.test_add_item_4) ... FAIL
+test_add_item_5 (tests_VendingMachine.VendingMachineTestAddItem.test_add_item_5) ... FAIL
+test_display_items (tests_VendingMachine.VendingMachineTestDisplayItems.test_display_items) ... FAIL
+test_display_items_2 (tests_VendingMachine.VendingMachineTestDisplayItems.test_display_items_2) ... FAIL
+test_display_items_3 (tests_VendingMachine.VendingMachineTestDisplayItems.test_display_items_3) ... FAIL
+test_display_items_4 (tests_VendingMachine.VendingMachineTestDisplayItems.test_display_items_4) ... FAIL
+test_display_items_5 (tests_VendingMachine.VendingMachineTestDisplayItems.test_display_items_5) ... FAIL
+test_insert_coin (tests_VendingMachine.VendingMachineTestInsertCoin.test_insert_coin) ... ok
+test_insert_coin_2 (tests_VendingMachine.VendingMachineTestInsertCoin.test_insert_coin_2) ... ok
+test_insert_coin_3 (tests_VendingMachine.VendingMachineTestInsertCoin.test_insert_coin_3) ... ERROR
+test_insert_coin_4 (tests_VendingMachine.VendingMachineTestInsertCoin.test_insert_coin_4) ... FAIL
+test_insert_coin_5 (tests_VendingMachine.VendingMachineTestInsertCoin.test_insert_coin_5) ... FAIL
+test_main (tests_VendingMachine.VendingMachineTestMain.test_main) ... FAIL
+test_main_2 (tests_VendingMachine.VendingMachineTestMain.test_main_2) ... FAIL
+test_purchase_item (tests_VendingMachine.VendingMachineTestPurchaseItem.test_purchase_item) ... FAIL
+test_purchase_item_2 (tests_VendingMachine.VendingMachineTestPurchaseItem.test_purchase_item_2) ... ok
+test_purchase_item_3 (tests_VendingMachine.VendingMachineTestPurchaseItem.test_purchase_item_3) ... ok
+test_purchase_item_4 (tests_VendingMachine.VendingMachineTestPurchaseItem.test_purchase_item_4) ... ok
+test_purchase_item_5 (tests_VendingMachine.VendingMachineTestPurchaseItem.test_purchase_item_5) ... FAIL
+test_restock_item (tests_VendingMachine.VendingMachineTestRestockItem.test_restock_item) ... FAIL
+test_restock_item_2 (tests_VendingMachine.VendingMachineTestRestockItem.test_restock_item_2) ... ok
+test_restock_item_3 (tests_VendingMachine.VendingMachineTestRestockItem.test_restock_item_3) ... FAIL
+test_restock_item_4 (tests_VendingMachine.VendingMachineTestRestockItem.test_restock_item_4) ... FAIL
+test_restock_item_5 (tests_VendingMachine.VendingMachineTestRestockItem.test_restock_item_5) ... FAIL
+test_celsius_to_fahrenheit (tests_WeatherSystem.WeatherSystemTestCelsiusToFahrenheit.test_celsius_to_fahrenheit) ... ok
+test_celsius_to_fahrenheit_2 (tests_WeatherSystem.WeatherSystemTestCelsiusToFahrenheit.test_celsius_to_fahrenheit_2) ... ok
+test_celsius_to_fahrenheit_3 (tests_WeatherSystem.WeatherSystemTestCelsiusToFahrenheit.test_celsius_to_fahrenheit_3) ... ok
+test_celsius_to_fahrenheit_4 (tests_WeatherSystem.WeatherSystemTestCelsiusToFahrenheit.test_celsius_to_fahrenheit_4) ... ok
+test_celsius_to_fahrenheit_5 (tests_WeatherSystem.WeatherSystemTestCelsiusToFahrenheit.test_celsius_to_fahrenheit_5) ... ok
+test_fahrenheit_to_celsius (tests_WeatherSystem.WeatherSystemTestFahrenheitToCelsius.test_fahrenheit_to_celsius) ... ok
+test_fahrenheit_to_celsius_2 (tests_WeatherSystem.WeatherSystemTestFahrenheitToCelsius.test_fahrenheit_to_celsius_2) ... ok
+test_fahrenheit_to_celsius_3 (tests_WeatherSystem.WeatherSystemTestFahrenheitToCelsius.test_fahrenheit_to_celsius_3) ... ok
+test_fahrenheit_to_celsius_4 (tests_WeatherSystem.WeatherSystemTestFahrenheitToCelsius.test_fahrenheit_to_celsius_4) ... ok
+test_fahrenheit_to_celsius_5 (tests_WeatherSystem.WeatherSystemTestFahrenheitToCelsius.test_fahrenheit_to_celsius_5) ... ok
+test_main (tests_WeatherSystem.WeatherSystemTestMain.test_main) ... ERROR
+test_query (tests_WeatherSystem.WeatherSystemTestQuery.test_query) ... ERROR
+test_query_2 (tests_WeatherSystem.WeatherSystemTestQuery.test_query_2) ... FAIL
+test_query_3 (tests_WeatherSystem.WeatherSystemTestQuery.test_query_3) ... ERROR
+test_query_4 (tests_WeatherSystem.WeatherSystemTestQuery.test_query_4) ... ERROR
+test_query_5 (tests_WeatherSystem.WeatherSystemTestQuery.test_query_5) ... ERROR
+test_query_6 (tests_WeatherSystem.WeatherSystemTestQuery.test_query_6) ... ERROR
+test_set_city (tests_WeatherSystem.WeatherSystemTestSetCity.test_set_city) ... ok
+test_set_city_2 (tests_WeatherSystem.WeatherSystemTestSetCity.test_set_city_2) ... ok
+test_set_city_3 (tests_WeatherSystem.WeatherSystemTestSetCity.test_set_city_3) ... ok
+test_set_city_4 (tests_WeatherSystem.WeatherSystemTestSetCity.test_set_city_4) ... ok
+test_set_city_5 (tests_WeatherSystem.WeatherSystemTestSetCity.test_set_city_5) ... ok
+
+======================================================================
+ERROR: test_caesar_cipher (tests_EncryptionUtils.EncryptionUtilsTestCaesarCipher.test_caesar_cipher)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_EncryptionUtils.py", line 8, in test_caesar_cipher
+    self.assertEqual(encryption_utils.caesar_cipher("abc", 1), "bcd")
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/EncryptionUtils.py", line 12, in caesar_cipher
+    shifted_char = chr((ch.lower() - 'a' + shift) % 26 + ascii_offset)
+                        ~~~~~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+======================================================================
+ERROR: test_caesar_cipher_2 (tests_EncryptionUtils.EncryptionUtilsTestCaesarCipher.test_caesar_cipher_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_EncryptionUtils.py", line 12, in test_caesar_cipher_2
+    self.assertEqual(encryption_utils.caesar_cipher("WORLD", -2), "UMPJB")
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/EncryptionUtils.py", line 12, in caesar_cipher
+    shifted_char = chr((ch.lower() - 'a' + shift) % 26 + ascii_offset)
+                        ~~~~~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+======================================================================
+ERROR: test_caesar_cipher_4 (tests_EncryptionUtils.EncryptionUtilsTestCaesarCipher.test_caesar_cipher_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_EncryptionUtils.py", line 20, in test_caesar_cipher_4
+    self.assertEqual(encryption_utils.caesar_cipher("abcxyz", 26), "abcxyz")
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/EncryptionUtils.py", line 12, in caesar_cipher
+    shifted_char = chr((ch.lower() - 'a' + shift) % 26 + ascii_offset)
+                        ~~~~~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+======================================================================
+ERROR: test_caesar_cipher_5 (tests_EncryptionUtils.EncryptionUtilsTestCaesarCipher.test_caesar_cipher_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_EncryptionUtils.py", line 24, in test_caesar_cipher_5
+    self.assertEqual(encryption_utils.caesar_cipher("abcxyz", 27), "bcdyza")
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/EncryptionUtils.py", line 12, in caesar_cipher
+    shifted_char = chr((ch.lower() - 'a' + shift) % 26 + ascii_offset)
+                        ~~~~~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+======================================================================
+ERROR: test_main (tests_EncryptionUtils.EncryptionUtilsTestMain.test_main)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_EncryptionUtils.py", line 82, in test_main
+    self.assertEqual(encryption_utils.caesar_cipher("abc", 1), "bcd")
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/EncryptionUtils.py", line 12, in caesar_cipher
+    shifted_char = chr((ch.lower() - 'a' + shift) % 26 + ascii_offset)
+                        ~~~~~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+======================================================================
+ERROR: test_vigenere_cipher (tests_EncryptionUtils.EncryptionUtilsTestVigenereCipher.test_vigenere_cipher)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_EncryptionUtils.py", line 34, in test_vigenere_cipher
+    self.assertEqual(encryption_utils.vigenere_cipher("abc"), "kfa")
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/EncryptionUtils.py", line 23, in vigenere_cipher
+    shift = self.key[key_index % len(self.key)].lower() - 'a'
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+======================================================================
+ERROR: test_vigenere_cipher_2 (tests_EncryptionUtils.EncryptionUtilsTestVigenereCipher.test_vigenere_cipher_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_EncryptionUtils.py", line 38, in test_vigenere_cipher_2
+    self.assertEqual(encryption_utils.vigenere_cipher("hello"), "rijvs")
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/EncryptionUtils.py", line 23, in vigenere_cipher
+    shift = self.key[key_index % len(self.key)].lower() - 'a'
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+======================================================================
+ERROR: test_vigenere_cipher_3 (tests_EncryptionUtils.EncryptionUtilsTestVigenereCipher.test_vigenere_cipher_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_EncryptionUtils.py", line 42, in test_vigenere_cipher_3
+    self.assertEqual(encryption_utils.vigenere_cipher("AbCdEfG"), "LpPjOjE")
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/EncryptionUtils.py", line 23, in vigenere_cipher
+    shift = self.key[key_index % len(self.key)].lower() - 'a'
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+======================================================================
+ERROR: test_vigenere_cipher_4 (tests_EncryptionUtils.EncryptionUtilsTestVigenereCipher.test_vigenere_cipher_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_EncryptionUtils.py", line 46, in test_vigenere_cipher_4
+    self.assertEqual(encryption_utils.vigenere_cipher("Hello, World! 123"), "Rijvs, Uyvjn! 123")
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/EncryptionUtils.py", line 23, in vigenere_cipher
+    shift = self.key[key_index % len(self.key)].lower() - 'a'
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+======================================================================
+ERROR: test_main (tests_JSONProcessor.JSONProcessorTestMain.test_main)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_JSONProcessor.py", line 190, in test_main
+    result = self.processor.read_json(self.file_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: JSONProcessor.read_json() missing 1 required positional argument: 'output'
+
+======================================================================
+ERROR: test_process_json_1 (tests_JSONProcessor.JSONProcessorTestProcessJsonExistingKey.test_process_json_1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_JSONProcessor.py", line 121, in test_process_json_1
+    self.processor.process_json(self.file_path, remove_key)
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/JSONProcessor.py", line 33, in process_json
+    if remove_key in data:
+       ^^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+======================================================================
+ERROR: test_process_json_2 (tests_JSONProcessor.JSONProcessorTestProcessJsonExistingKey.test_process_json_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_JSONProcessor.py", line 135, in test_process_json_2
+    self.processor.process_json(self.file_path, remove_key)
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/JSONProcessor.py", line 33, in process_json
+    if remove_key in data:
+       ^^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+======================================================================
+ERROR: test_process_json_4 (tests_JSONProcessor.JSONProcessorTestProcessJsonExistingKey.test_process_json_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_JSONProcessor.py", line 152, in test_process_json_4
+    self.processor.process_json(self.file_path, remove_key)
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/JSONProcessor.py", line 33, in process_json
+    if remove_key in data:
+       ^^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+======================================================================
+ERROR: test_process_json_5 (tests_JSONProcessor.JSONProcessorTestProcessJsonExistingKey.test_process_json_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_JSONProcessor.py", line 161, in test_process_json_5
+    self.processor.process_json(self.file_path, remove_key)
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/JSONProcessor.py", line 33, in process_json
+    if remove_key in data:
+       ^^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'NoneType' is not iterable
+
+======================================================================
+ERROR: test_read_json_1 (tests_JSONProcessor.JSONProcessorTestReadJson.test_read_json_1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_JSONProcessor.py", line 26, in test_read_json_1
+    result = self.processor.read_json(self.file_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: JSONProcessor.read_json() missing 1 required positional argument: 'output'
+
+======================================================================
+ERROR: test_read_json_2 (tests_JSONProcessor.JSONProcessorTestReadJson.test_read_json_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_JSONProcessor.py", line 31, in test_read_json_2
+    result = self.processor.read_json(self.file_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: JSONProcessor.read_json() missing 1 required positional argument: 'output'
+
+======================================================================
+ERROR: test_read_json_3 (tests_JSONProcessor.JSONProcessorTestReadJson.test_read_json_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_JSONProcessor.py", line 38, in test_read_json_3
+    result = self.processor.read_json(self.file_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: JSONProcessor.read_json() missing 1 required positional argument: 'output'
+
+======================================================================
+ERROR: test_read_json_4 (tests_JSONProcessor.JSONProcessorTestReadJson.test_read_json_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_JSONProcessor.py", line 42, in test_read_json_4
+    result = self.processor.read_json('wrong')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: JSONProcessor.read_json() missing 1 required positional argument: 'output'
+
+======================================================================
+ERROR: test_read_json_5 (tests_JSONProcessor.JSONProcessorTestReadJson.test_read_json_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_JSONProcessor.py", line 46, in test_read_json_5
+    result = self.processor.read_json('abcd')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: JSONProcessor.read_json() missing 1 required positional argument: 'output'
+
+======================================================================
+ERROR: test_delete (tests_SQLGenerator.SQLGeneratorTestDelete.test_delete)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLGenerator.py", line 107, in test_delete
+    result = sql.delete("field1 = value1")
+             ^^^^^^^^^^
+AttributeError: 'SQLGenerator' object has no attribute 'delete'
+
+======================================================================
+ERROR: test_delete_2 (tests_SQLGenerator.SQLGeneratorTestDelete.test_delete_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLGenerator.py", line 112, in test_delete_2
+    result = sql.delete("field1 = value1 AND field2 = value2")
+             ^^^^^^^^^^
+AttributeError: 'SQLGenerator' object has no attribute 'delete'
+
+======================================================================
+ERROR: test_delete_3 (tests_SQLGenerator.SQLGeneratorTestDelete.test_delete_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLGenerator.py", line 117, in test_delete_3
+    result = sql.delete("field1 = value1 AND field2 = value2 AND field3 = value3")
+             ^^^^^^^^^^
+AttributeError: 'SQLGenerator' object has no attribute 'delete'
+
+======================================================================
+ERROR: test_delete_4 (tests_SQLGenerator.SQLGeneratorTestDelete.test_delete_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLGenerator.py", line 122, in test_delete_4
+    result = sql.delete("field1 = value1 AND field2 = value2 AND field3 = value3 AND field4 = value4")
+             ^^^^^^^^^^
+AttributeError: 'SQLGenerator' object has no attribute 'delete'
+
+======================================================================
+ERROR: test_delete_5 (tests_SQLGenerator.SQLGeneratorTestDelete.test_delete_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLGenerator.py", line 128, in test_delete_5
+    result = sql.delete("field1 = value1 AND field2 = value2 AND field3 = value3 AND field4 = value4 AND field5 = value5")
+             ^^^^^^^^^^
+AttributeError: 'SQLGenerator' object has no attribute 'delete'
+
+======================================================================
+ERROR: test_main (tests_SQLGenerator.SQLGeneratorTestMain.test_main)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLGenerator.py", line 195, in test_main
+    self.assertEqual(sql.delete("field1 = value1"),
+                     ^^^^^^^^^^
+AttributeError: 'SQLGenerator' object has no attribute 'delete'
+
+======================================================================
+ERROR: test_delete_1 (tests_SQLQueryBuilder.SQLQueryBuilderTestDetele.test_delete_1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 84, in test_delete_1
+    SQLQueryBuilder.delete('users', {'name': 'Tom'}),
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'SQLQueryBuilder' has no attribute 'delete'. Did you mean: 'delete_'?
+
+======================================================================
+ERROR: test_delete_2 (tests_SQLQueryBuilder.SQLQueryBuilderTestDetele.test_delete_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 90, in test_delete_2
+    SQLQueryBuilder.delete('students', {'name': 'Tom'}),
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'SQLQueryBuilder' has no attribute 'delete'. Did you mean: 'delete_'?
+
+======================================================================
+ERROR: test_delete_3 (tests_SQLQueryBuilder.SQLQueryBuilderTestDetele.test_delete_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 96, in test_delete_3
+    SQLQueryBuilder.delete('items', {'name': 'apple'}),
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'SQLQueryBuilder' has no attribute 'delete'. Did you mean: 'delete_'?
+
+======================================================================
+ERROR: test_delete_4 (tests_SQLQueryBuilder.SQLQueryBuilderTestDetele.test_delete_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 102, in test_delete_4
+    SQLQueryBuilder.delete('items', {'name': 'aaa'}),
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'SQLQueryBuilder' has no attribute 'delete'. Did you mean: 'delete_'?
+
+======================================================================
+ERROR: test_delete_5 (tests_SQLQueryBuilder.SQLQueryBuilderTestDetele.test_delete_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 108, in test_delete_5
+    SQLQueryBuilder.delete('items', {'name': 'bbb'}),
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'SQLQueryBuilder' has no attribute 'delete'. Did you mean: 'delete_'?
+
+======================================================================
+ERROR: test_delete_6 (tests_SQLQueryBuilder.SQLQueryBuilderTestDetele.test_delete_6)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 114, in test_delete_6
+    SQLQueryBuilder.delete('items'),
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'SQLQueryBuilder' has no attribute 'delete'. Did you mean: 'delete_'?
+
+======================================================================
+ERROR: test_main (tests_SQLQueryBuilder.SQLQueryBuilderTestMain.test_main)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 160, in test_main
+    SQLQueryBuilder.select('users', ["id", "name"], {'age': 30}),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/SQLQueryBuilder.py", line 15, in select
+    query.append(" WHERE " + " AND ".join([f"{key}='{value}'" for key, value in where]))
+                                                                  ^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+
+======================================================================
+ERROR: test_select_1 (tests_SQLQueryBuilder.SQLQueryBuilderTestSelect.test_select_1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 8, in test_select_1
+    SQLQueryBuilder.select('users', ["id", "name"], {'age': 30}),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/SQLQueryBuilder.py", line 15, in select
+    query.append(" WHERE " + " AND ".join([f"{key}='{value}'" for key, value in where]))
+                                                                  ^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+
+======================================================================
+ERROR: test_select_2 (tests_SQLQueryBuilder.SQLQueryBuilderTestSelect.test_select_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 14, in test_select_2
+    SQLQueryBuilder.select('students', ["id", "name"], {'age': 18}),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/SQLQueryBuilder.py", line 15, in select
+    query.append(" WHERE " + " AND ".join([f"{key}='{value}'" for key, value in where]))
+                                                                  ^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+
+======================================================================
+ERROR: test_select_3 (tests_SQLQueryBuilder.SQLQueryBuilderTestSelect.test_select_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 20, in test_select_3
+    SQLQueryBuilder.select('items', ["id", "name"], {'price': 1.0}),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/SQLQueryBuilder.py", line 15, in select
+    query.append(" WHERE " + " AND ".join([f"{key}='{value}'" for key, value in where]))
+                                                                  ^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+
+======================================================================
+ERROR: test_select_4 (tests_SQLQueryBuilder.SQLQueryBuilderTestSelect.test_select_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 26, in test_select_4
+    SQLQueryBuilder.select('users', ["id"], {'age': 30}),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/SQLQueryBuilder.py", line 15, in select
+    query.append(" WHERE " + " AND ".join([f"{key}='{value}'" for key, value in where]))
+                                                                  ^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+
+======================================================================
+ERROR: test_select_5 (tests_SQLQueryBuilder.SQLQueryBuilderTestSelect.test_select_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 32, in test_select_5
+    SQLQueryBuilder.select('users', ["name"], {'age': 30}),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/SQLQueryBuilder.py", line 15, in select
+    query.append(" WHERE " + " AND ".join([f"{key}='{value}'" for key, value in where]))
+                                                                  ^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+
+======================================================================
+ERROR: test_insert_coin_3 (tests_VendingMachine.VendingMachineTestInsertCoin.test_insert_coin_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 49, in test_insert_coin_3
+    self.assertEqual(vendingMachine.balance, 2.50)
+                     ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'VendingMachine' object has no attribute 'balance'. Did you mean: 'balance_'?
+
+======================================================================
+ERROR: test_main (tests_WeatherSystem.WeatherSystemTestMain.test_main)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_WeatherSystem.py", line 199, in test_main
+    self.assertEqual(weatherSystem.query(weather_list), (27, 'sunny'))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/WeatherSystem.py", line 17, in query
+    if info["temperature_units"] != tmp_units:
+       ~~~~^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'temperature_units'
+
+======================================================================
+ERROR: test_query (tests_WeatherSystem.WeatherSystemTestQuery.test_query)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_WeatherSystem.py", line 20, in test_query
+    self.assertEqual(weatherSystem.query(weather_list), (27, 'sunny'))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/WeatherSystem.py", line 17, in query
+    if info["temperature_units"] != tmp_units:
+       ~~~~^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'temperature_units'
+
+======================================================================
+ERROR: test_query_3 (tests_WeatherSystem.WeatherSystemTestQuery.test_query_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_WeatherSystem.py", line 52, in test_query_3
+    self.assertEqual(weatherSystem.query(weather_list, 'fahrenheit'), (73.4, 'cloudy'))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/WeatherSystem.py", line 17, in query
+    if info["temperature_units"] != tmp_units:
+       ~~~~^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'temperature_units'
+
+======================================================================
+ERROR: test_query_4 (tests_WeatherSystem.WeatherSystemTestQuery.test_query_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_WeatherSystem.py", line 68, in test_query_4
+    self.assertEqual(weatherSystem.query(weather_list, 'celsius'), (23.000000000000004, 'cloudy'))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/WeatherSystem.py", line 17, in query
+    if info["temperature_units"] != tmp_units:
+       ~~~~^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'temperature_units'
+
+======================================================================
+ERROR: test_query_5 (tests_WeatherSystem.WeatherSystemTestQuery.test_query_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_WeatherSystem.py", line 84, in test_query_5
+    self.assertEqual(weatherSystem.query(weather_list, tmp_units='celsius'), (26.999999999999996, 'sunny'))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/WeatherSystem.py", line 17, in query
+    if info["temperature_units"] != tmp_units:
+       ~~~~^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'temperature_units'
+
+======================================================================
+ERROR: test_query_6 (tests_WeatherSystem.WeatherSystemTestQuery.test_query_6)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_WeatherSystem.py", line 100, in test_query_6
+    self.assertEqual(weatherSystem.query(weather_list, tmp_units='fahrenheit'), (80.6, 'sunny'))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/solution/WeatherSystem.py", line 17, in query
+    if info["temperature_units"] != tmp_units:
+       ~~~~^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'temperature_units'
+
+======================================================================
+FAIL: test_init_game_2 (tests_PushBoxGame.PushBoxGameTestInitGame.test_init_game_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_PushBoxGame.py", line 20, in test_init_game_2
+    self.assertEqual(self.game.is_game_over, False)
+AssertionError: <bound method PushBoxGame.is_game_over of[56 chars]ce0>> != False
+
+======================================================================
+FAIL: test_move_2 (tests_PushBoxGame.PushBoxGameTestMove.test_move_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_PushBoxGame.py", line 79, in test_move_2
+    self.assertFalse(self.game.is_game_over)
+AssertionError: <bound method PushBoxGame.is_game_over of <solution.PushBoxGame.PushBoxGame object at 0x7ce722a67b90>> is not false
+
+======================================================================
+FAIL: test_move_3 (tests_PushBoxGame.PushBoxGameTestMove.test_move_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_PushBoxGame.py", line 85, in test_move_3
+    self.assertFalse(self.game.is_game_over)
+AssertionError: <bound method PushBoxGame.is_game_over of <solution.PushBoxGame.PushBoxGame object at 0x7ce722a67da0>> is not false
+
+======================================================================
+FAIL: test_move_4 (tests_PushBoxGame.PushBoxGameTestMove.test_move_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_PushBoxGame.py", line 91, in test_move_4
+    self.assertFalse(self.game.is_game_over)
+AssertionError: <bound method PushBoxGame.is_game_over of <solution.PushBoxGame.PushBoxGame object at 0x7ce722a67c80>> is not false
+
+======================================================================
+FAIL: test_move_5 (tests_PushBoxGame.PushBoxGameTestMove.test_move_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_PushBoxGame.py", line 97, in test_move_5
+    self.assertFalse(self.game.is_game_over)
+AssertionError: <bound method PushBoxGame.is_game_over of <solution.PushBoxGame.PushBoxGame object at 0x7ce722a67a70>> is not false
+
+======================================================================
+FAIL: test_move_6 (tests_PushBoxGame.PushBoxGameTestMove.test_move_6)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_PushBoxGame.py", line 101, in test_move_6
+    self.assertFalse(self.game.is_game_over)
+AssertionError: <bound method PushBoxGame.is_game_over of <solution.PushBoxGame.PushBoxGame object at 0x7ce722a67b30>> is not false
+
+======================================================================
+FAIL: test_move_7 (tests_PushBoxGame.PushBoxGameTestMove.test_move_7)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_PushBoxGame.py", line 115, in test_move_7
+    self.assertFalse(self.game.is_game_over)
+AssertionError: <bound method PushBoxGame.is_game_over of <solution.PushBoxGame.PushBoxGame object at 0x7ce722a65fa0>> is not false
+
+======================================================================
+FAIL: test_regexutils (tests_RegexUtils.RegexUtilsTest.test_regexutils)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_RegexUtils.py", line 305, in test_regexutils
+    self.assertEqual(res, ['', ' abiguygusu ', ' kjgufwycs ', ''])
+AssertionError: Lists differ: ['', ' abiguygusu ', ' kjgufwycs ', '', ''] != ['', ' abiguygusu ', ' kjgufwycs ', '']
+
+First list contains 1 additional elements.
+First extra element 4:
+''
+
+- ['', ' abiguygusu ', ' kjgufwycs ', '', '']
+?                                    ----
+
++ ['', ' abiguygusu ', ' kjgufwycs ', '']
+
+======================================================================
+FAIL: test_split_1 (tests_RegexUtils.RegexUtilsTestSplit.test_split_1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_RegexUtils.py", line 63, in test_split_1
+    self.assertEqual(res, ['', ' abiguygusu ', ' kjgufwycs ', ''])
+AssertionError: Lists differ: ['', ' abiguygusu ', ' kjgufwycs ', '', ''] != ['', ' abiguygusu ', ' kjgufwycs ', '']
+
+First list contains 1 additional elements.
+First extra element 4:
+''
+
+- ['', ' abiguygusu ', ' kjgufwycs ', '', '']
+?                                    ----
+
++ ['', ' abiguygusu ', ' kjgufwycs ', '']
+
+======================================================================
+FAIL: test_split_3 (tests_RegexUtils.RegexUtilsTestSplit.test_split_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_RegexUtils.py", line 73, in test_split_3
+    self.assertEqual(res, ['', ' abiguygusu ', ' kjgufwycs ', ''])
+AssertionError: Lists differ: ['', ' abiguygusu ', ' kjgufwycs ', '', ''] != ['', ' abiguygusu ', ' kjgufwycs ', '']
+
+First list contains 1 additional elements.
+First extra element 4:
+''
+
+- ['', ' abiguygusu ', ' kjgufwycs ', '', '']
+?                                    ----
+
++ ['', ' abiguygusu ', ' kjgufwycs ', '']
+
+======================================================================
+FAIL: test_split_4 (tests_RegexUtils.RegexUtilsTestSplit.test_split_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_RegexUtils.py", line 78, in test_split_4
+    self.assertEqual(res, ['123456-7890 abiguygusu ', ' kjgufwycs ', ''])
+AssertionError: Lists differ: ['123456-7890 abiguygusu ', ' kjgufwycs ', '', ''] != ['123456-7890 abiguygusu ', ' kjgufwycs ', '']
+
+First list contains 1 additional elements.
+First extra element 3:
+''
+
+- ['123456-7890 abiguygusu ', ' kjgufwycs ', '', '']
+?                                           ----
+
++ ['123456-7890 abiguygusu ', ' kjgufwycs ', '']
+
+======================================================================
+FAIL: test_split_5 (tests_RegexUtils.RegexUtilsTestSplit.test_split_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_RegexUtils.py", line 83, in test_split_5
+    self.assertEqual(res, ['123-456-789a abiguygusu ', ' kjgufwycs ', ''])
+AssertionError: Lists differ: ['123-456-789a abiguygusu ', ' kjgufwycs ', '', ''] != ['123-456-789a abiguygusu ', ' kjgufwycs ', '']
+
+First list contains 1 additional elements.
+First extra element 3:
+''
+
+- ['123-456-789a abiguygusu ', ' kjgufwycs ', '', '']
+?                                            ----
+
++ ['123-456-789a abiguygusu ', ' kjgufwycs ', '']
+
+======================================================================
+FAIL: test_insert_1 (tests_SQLQueryBuilder.SQLQueryBuilderTestInsert.test_insert_1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 51, in test_insert_1
+    self.assertEqual(
+AssertionError: "INSERT INTO users (n, a) VALUES ('a', 'g')" != "INSERT INTO users (name, age) VALUES ('Tom', '30')"
+- INSERT INTO users (n, a) VALUES ('a', 'g')
+?                                   ^    ^
++ INSERT INTO users (name, age) VALUES ('Tom', '30')
+?                     +++   ++           ^^^    ^^
+
+
+======================================================================
+FAIL: test_insert_2 (tests_SQLQueryBuilder.SQLQueryBuilderTestInsert.test_insert_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 57, in test_insert_2
+    self.assertEqual(
+AssertionError: "INSERT INTO students (n, a) VALUES ('a', 'g')" != "INSERT INTO students (name, age) VALUES ('Tom', '18')"
+- INSERT INTO students (n, a) VALUES ('a', 'g')
+?                                      ^    ^
++ INSERT INTO students (name, age) VALUES ('Tom', '18')
+?                        +++   ++           ^^^    ^^
+
+
+======================================================================
+FAIL: test_insert_3 (tests_SQLQueryBuilder.SQLQueryBuilderTestInsert.test_insert_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 63, in test_insert_3
+    self.assertEqual(
+AssertionError: "INSERT INTO items (n, p) VALUES ('a', 'r')" != "INSERT INTO items (name, price) VALUES ('apple', '1.0')"
+- INSERT INTO items (n, p) VALUES ('a', 'r')
+?                                        ^
++ INSERT INTO items (name, price) VALUES ('apple', '1.0')
+?                     +++   ++++            ++++    ^^^
+
+
+======================================================================
+FAIL: test_insert_4 (tests_SQLQueryBuilder.SQLQueryBuilderTestInsert.test_insert_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 69, in test_insert_4
+    self.assertEqual(
+AssertionError: "INSERT INTO users (n) VALUES ('a')" != "INSERT INTO users (name) VALUES ('Tom')"
+- INSERT INTO users (n) VALUES ('a')
+?                                ^
++ INSERT INTO users (name) VALUES ('Tom')
+?                     +++           ^^^
+
+
+======================================================================
+FAIL: test_insert_5 (tests_SQLQueryBuilder.SQLQueryBuilderTestInsert.test_insert_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 75, in test_insert_5
+    self.assertEqual(
+AssertionError: "INSERT INTO users (n, a, r) VALUES ('a', 'g', 'e')" != "INSERT INTO users (name, age, region) VALUES ('Tom', '30', 'USA')"
+- INSERT INTO users (n, a, r) VALUES ('a', 'g', 'e')
+?                                      ^    ^    ^
++ INSERT INTO users (name, age, region) VALUES ('Tom', '30', 'USA')
+?                     +++   ++   +++++           ^^^    ^^    ^^^
+
+
+======================================================================
+FAIL: test_update_1 (tests_SQLQueryBuilder.SQLQueryBuilderTestUpdate.test_update_1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 121, in test_update_1
+    self.assertEqual(
+AssertionError: "UPDATE users SET a='g' WHERE n='a'" != "UPDATE users SET age='35' WHERE name='Tom'"
+- UPDATE users SET a='g' WHERE n='a'
+?                     ^           ^
++ UPDATE users SET age='35' WHERE name='Tom'
+?                   ++  ^^         +++  ^^^
+
+
+======================================================================
+FAIL: test_update_2 (tests_SQLQueryBuilder.SQLQueryBuilderTestUpdate.test_update_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 127, in test_update_2
+    self.assertEqual(
+AssertionError: "UPDATE students SET a='g' WHERE n='a'" != "UPDATE students SET age='18' WHERE name='Tom'"
+- UPDATE students SET a='g' WHERE n='a'
+?                        ^           ^
++ UPDATE students SET age='18' WHERE name='Tom'
+?                      ++  ^^         +++  ^^^
+
+
+======================================================================
+FAIL: test_update_3 (tests_SQLQueryBuilder.SQLQueryBuilderTestUpdate.test_update_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 133, in test_update_3
+    self.assertEqual(
+AssertionError: "UPDATE items SET p='r' WHERE n='a'" != "UPDATE items SET price='1.0' WHERE name='apple'"
+- UPDATE items SET p='r' WHERE n='a'
+?                     ^
++ UPDATE items SET price='1.0' WHERE name='apple'
+?                   ++++  ^^^         +++   ++++
+
+
+======================================================================
+FAIL: test_update_4 (tests_SQLQueryBuilder.SQLQueryBuilderTestUpdate.test_update_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 139, in test_update_4
+    self.assertEqual(
+AssertionError: "UPDATE items SET p='r' WHERE n='a'" != "UPDATE items SET price='1.0' WHERE name='aaa'"
+- UPDATE items SET p='r' WHERE n='a'
+?                     ^
++ UPDATE items SET price='1.0' WHERE name='aaa'
+?                   ++++  ^^^         +++   ++
+
+
+======================================================================
+FAIL: test_update_5 (tests_SQLQueryBuilder.SQLQueryBuilderTestUpdate.test_update_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 145, in test_update_5
+    self.assertEqual(
+AssertionError: "UPDATE items SET p='r' WHERE n='a'" != "UPDATE items SET price='1.0' WHERE name='bbb'"
+- UPDATE items SET p='r' WHERE n='a'
+?                     ^           ^
++ UPDATE items SET price='1.0' WHERE name='bbb'
+?                   ++++  ^^^         +++  ^^^
+
+
+======================================================================
+FAIL: test_update_6 (tests_SQLQueryBuilder.SQLQueryBuilderTestUpdate.test_update_6)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_SQLQueryBuilder.py", line 151, in test_update_6
+    self.assertEqual(
+AssertionError: "UPDATE items SET p='r'" != "UPDATE items SET price='1.0'"
+- UPDATE items SET p='r'
+?                     ^
++ UPDATE items SET price='1.0'
+?                   ++++  ^^^
+
+
+======================================================================
+FAIL: test_server (tests_Server.ServerTest.test_server)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_Server.py", line 166, in test_server
+    self.assertEqual(server.receive_struct, {"addr": 88, "content": "abc"})
+AssertionError: {'addr': '88', 'content': 'abc'} != {'addr': 88, 'content': 'abc'}
+- {'addr': '88', 'content': 'abc'}
+?          -  -
+
++ {'addr': 88, 'content': 'abc'}
+
+======================================================================
+FAIL: test_add_white_list_2 (tests_Server.ServerTestAddWhiteList.test_add_white_list_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_Server.py", line 14, in test_add_white_list_2
+    self.assertEqual(server.add_white_list(88), False)
+AssertionError: [] != False
+
+======================================================================
+FAIL: test_add_white_list_3 (tests_Server.ServerTestAddWhiteList.test_add_white_list_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_Server.py", line 20, in test_add_white_list_3
+    self.assertEqual(server.add_white_list(11), False)
+AssertionError: [] != False
+
+======================================================================
+FAIL: test_add_white_list_5 (tests_Server.ServerTestAddWhiteList.test_add_white_list_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_Server.py", line 32, in test_add_white_list_5
+    self.assertEqual(server.add_white_list(22), False)
+AssertionError: [] != False
+
+======================================================================
+FAIL: test_del_white_list_2 (tests_Server.ServerTestDelWhiteList.test_del_white_list_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_Server.py", line 44, in test_del_white_list_2
+    self.assertEqual(server.del_white_list(88), False)
+AssertionError: [] != False
+
+======================================================================
+FAIL: test_del_white_list_3 (tests_Server.ServerTestDelWhiteList.test_del_white_list_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_Server.py", line 48, in test_del_white_list_3
+    self.assertEqual(server.del_white_list(11), False)
+AssertionError: [] != False
+
+======================================================================
+FAIL: test_del_white_list_4 (tests_Server.ServerTestDelWhiteList.test_del_white_list_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_Server.py", line 52, in test_del_white_list_4
+    self.assertEqual(server.del_white_list(22), False)
+AssertionError: [] != False
+
+======================================================================
+FAIL: test_del_white_list_5 (tests_Server.ServerTestDelWhiteList.test_del_white_list_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_Server.py", line 57, in test_del_white_list_5
+    self.assertEqual(server.del_white_list(22), False)
+AssertionError: [] != False
+
+======================================================================
+FAIL: test_recv_1 (tests_Server.ServerTestRecv.test_recv_1)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_Server.py", line 65, in test_recv_1
+    self.assertEqual(server.receive_struct, {"addr": 88, "content": "abc"})
+AssertionError: {'addr': '88', 'content': 'abc'} != {'addr': 88, 'content': 'abc'}
+- {'addr': '88', 'content': 'abc'}
+?          -  -
+
++ {'addr': 88, 'content': 'abc'}
+
+======================================================================
+FAIL: test_show_2 (tests_Server.ServerTestShow.test_show_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_Server.py", line 133, in test_show_2
+    self.assertEqual(server.show("receive"), {"addr": 66, "content": "ABC"})
+AssertionError: {'addr': '66', 'content': 'ABC'} != {'addr': 66, 'content': 'ABC'}
+- {'addr': '66', 'content': 'ABC'}
+?          -  -
+
++ {'addr': 66, 'content': 'ABC'}
+
+======================================================================
+FAIL: test_show_3 (tests_Server.ServerTestShow.test_show_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_Server.py", line 140, in test_show_3
+    self.assertEqual(server.show("abcdefg"), False)
+AssertionError: {} != False
+
+======================================================================
+FAIL: test_check_winner_5 (tests_TicTacToe.TicTacToeTestCheckWinner.test_check_winner_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_TicTacToe.py", line 86, in test_check_winner_5
+    self.assertEqual(ttt.check_winner(), None)
+AssertionError: '\x00' != None
+
+======================================================================
+FAIL: test_main (tests_TicTacToe.TicTacToeTestMain.test_main)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_TicTacToe.py", line 133, in test_main
+    self.assertFalse(ttt.check_winner())
+AssertionError: '\x00' is not false
+
+======================================================================
+FAIL: test_get_fragment_2 (tests_URLHandler.URLHandlerTestGetFragment.test_get_fragment_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_URLHandler.py", line 159, in test_get_fragment_2
+    self.assertEqual(temp, None)
+AssertionError: '' != None
+
+======================================================================
+FAIL: test_get_host_6 (tests_URLHandler.URLHandlerTestGetHost.test_get_host_6)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_URLHandler.py", line 68, in test_get_host_6
+    self.assertIsNone(temp)
+AssertionError: '' is not None
+
+======================================================================
+FAIL: test_get_path_6 (tests_URLHandler.URLHandlerTestGetPath.test_get_path_6)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_URLHandler.py", line 112, in test_get_path_6
+    self.assertIsNone(temp)
+AssertionError: '' is not None
+
+======================================================================
+FAIL: test_get_query_params_3 (tests_URLHandler.URLHandlerTestGetQueryParams.test_get_query_params_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_URLHandler.py", line 131, in test_get_query_params_3
+    self.assertEqual(temp, None)
+AssertionError: {} != None
+
+======================================================================
+FAIL: test_get_scheme_6 (tests_URLHandler.URLHandlerTestGetScheme.test_get_scheme_6)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_URLHandler.py", line 35, in test_get_scheme_6
+    self.assertIsNone(temp)
+AssertionError: '' is not None
+
+======================================================================
+FAIL: test_add_item (tests_VendingMachine.VendingMachineTestAddItem.test_add_item)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 7, in test_add_item
+    self.assertEqual(vendingMachine.inventory, {'Coke': {'price': 1.25, 'quantity': 10}})
+AssertionError: <bound method VendingMachine.inventory of[62 chars]880>> != {'Coke': {'price': 1.25, 'quantity': 10}}
+
+======================================================================
+FAIL: test_add_item_2 (tests_VendingMachine.VendingMachineTestAddItem.test_add_item_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 13, in test_add_item_2
+    self.assertEqual(vendingMachine.inventory, {'Coke': {'price': 1.25, 'quantity': 20}})
+AssertionError: <bound method VendingMachine.inventory of[62 chars]dc0>> != {'Coke': {'price': 1.25, 'quantity': 20}}
+
+======================================================================
+FAIL: test_add_item_3 (tests_VendingMachine.VendingMachineTestAddItem.test_add_item_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 19, in test_add_item_3
+    self.assertEqual(vendingMachine.inventory, {'Coke': {'price': 1.25, 'quantity': 10}, 'Pizza': {'price': 1.25, 'quantity': 10}})
+AssertionError: <bound method VendingMachine.inventory of[62 chars]e20>> != {'Coke': {'price': 1.25, 'quantity': 10},[37 chars] 10}}
+
+======================================================================
+FAIL: test_add_item_4 (tests_VendingMachine.VendingMachineTestAddItem.test_add_item_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 26, in test_add_item_4
+    self.assertEqual(vendingMachine.inventory, {'Coke': {'price': 1.25, 'quantity': 10}, 'Pizza': {'price': 1.25, 'quantity': 20}})
+AssertionError: <bound method VendingMachine.inventory of[62 chars]110>> != {'Coke': {'price': 1.25, 'quantity': 10},[37 chars] 20}}
+
+======================================================================
+FAIL: test_add_item_5 (tests_VendingMachine.VendingMachineTestAddItem.test_add_item_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 34, in test_add_item_5
+    self.assertEqual(vendingMachine.inventory, {'Coke': {'price': 1.25, 'quantity': 20}, 'Pizza': {'price': 1.25, 'quantity': 20}})
+AssertionError: <bound method VendingMachine.inventory of[62 chars]e50>> != {'Coke': {'price': 1.25, 'quantity': 20},[37 chars] 20}}
+
+======================================================================
+FAIL: test_display_items (tests_VendingMachine.VendingMachineTestDisplayItems.test_display_items)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 138, in test_display_items
+    self.assertEqual(vendingMachine.display_items(), 'Coke - $1.25 [10]')
+AssertionError: 'false' != 'Coke - $1.25 [10]'
+- false
++ Coke - $1.25 [10]
+
+
+======================================================================
+FAIL: test_display_items_2 (tests_VendingMachine.VendingMachineTestDisplayItems.test_display_items_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 142, in test_display_items_2
+    self.assertEqual(vendingMachine.display_items(), False)
+AssertionError: 'false' != False
+
+======================================================================
+FAIL: test_display_items_3 (tests_VendingMachine.VendingMachineTestDisplayItems.test_display_items_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 147, in test_display_items_3
+    self.assertEqual(vendingMachine.display_items(),"Coke - $1.25 [10]\nPizza - $1.25 [10]")
+AssertionError: 'false' != 'Coke - $1.25 [10]\nPizza - $1.25 [10]'
+- false
++ Coke - $1.25 [10]
++ Pizza - $1.25 [10]
+
+
+======================================================================
+FAIL: test_display_items_4 (tests_VendingMachine.VendingMachineTestDisplayItems.test_display_items_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 152, in test_display_items_4
+    self.assertEqual(vendingMachine.display_items(), 'Coke - $1.25 [0]')
+AssertionError: 'false' != 'Coke - $1.25 [0]'
+- false
++ Coke - $1.25 [0]
+
+
+======================================================================
+FAIL: test_display_items_5 (tests_VendingMachine.VendingMachineTestDisplayItems.test_display_items_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 157, in test_display_items_5
+    self.assertEqual(vendingMachine.display_items(), 'Coke - $1.25 [0]\nPizza - $1.25 [10]')
+AssertionError: 'false' != 'Coke - $1.25 [0]\nPizza - $1.25 [10]'
+- false
++ Coke - $1.25 [0]
++ Pizza - $1.25 [10]
+
+
+======================================================================
+FAIL: test_insert_coin_4 (tests_VendingMachine.VendingMachineTestInsertCoin.test_insert_coin_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 57, in test_insert_coin_4
+    self.assertEqual(vendingMachine.balance, 5.0)
+AssertionError: 1.25 != 5.0
+
+======================================================================
+FAIL: test_insert_coin_5 (tests_VendingMachine.VendingMachineTestInsertCoin.test_insert_coin_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 66, in test_insert_coin_5
+    self.assertEqual(vendingMachine.balance, 6.25)
+AssertionError: 1.25 != 6.25
+
+======================================================================
+FAIL: test_main (tests_VendingMachine.VendingMachineTestMain.test_main)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 162, in test_main
+    self.assertEqual(vendingMachine.display_items(), False)
+AssertionError: 'false' != False
+
+======================================================================
+FAIL: test_main_2 (tests_VendingMachine.VendingMachineTestMain.test_main_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 178, in test_main_2
+    self.assertEqual(vendingMachine.inventory, {'Coke': {'price': 1.25, 'quantity': 10}})
+AssertionError: <bound method VendingMachine.inventory of[62 chars]550>> != {'Coke': {'price': 1.25, 'quantity': 10}}
+
+======================================================================
+FAIL: test_purchase_item (tests_VendingMachine.VendingMachineTestPurchaseItem.test_purchase_item)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 74, in test_purchase_item
+    self.assertEqual(vendingMachine.inventory, {'Coke': {'price': 1.25, 'quantity': 9}})
+AssertionError: {'Coke': {'price': 1.25, 'quantity': 10}} != {'Coke': {'price': 1.25, 'quantity': 9}}
+- {'Coke': {'price': 1.25, 'quantity': 10}}
+?                                      ^^
+
++ {'Coke': {'price': 1.25, 'quantity': 9}}
+?                                      ^
+
+
+======================================================================
+FAIL: test_purchase_item_5 (tests_VendingMachine.VendingMachineTestPurchaseItem.test_purchase_item_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 102, in test_purchase_item_5
+    self.assertEqual(vendingMachine.inventory, {'Coke': {'price': 1.25, 'quantity': 10}, 'Pizza': {'price': 1.25, 'quantity': 9}})
+AssertionError: {'Cok[15 chars].25, 'quantity': 10}, 'Pizza': {'price': 1.25, 'quantity': 10}} != {'Cok[15 chars].25, 'quantity': 10}, 'Pizza': {'price': 1.25, 'quantity': 9}}
+  {'Coke': {'price': 1.25, 'quantity': 10},
+-  'Pizza': {'price': 1.25, 'quantity': 10}}
+?                                       ^^
+
++  'Pizza': {'price': 1.25, 'quantity': 9}}
+?                                       ^
+
+
+======================================================================
+FAIL: test_restock_item (tests_VendingMachine.VendingMachineTestRestockItem.test_restock_item)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 108, in test_restock_item
+    self.assertEqual(vendingMachine.restock_item('Coke', 10), True)
+AssertionError: False != True
+
+======================================================================
+FAIL: test_restock_item_3 (tests_VendingMachine.VendingMachineTestRestockItem.test_restock_item_3)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 120, in test_restock_item_3
+    self.assertEqual(vendingMachine.restock_item('Coke', 10), True)
+AssertionError: False != True
+
+======================================================================
+FAIL: test_restock_item_4 (tests_VendingMachine.VendingMachineTestRestockItem.test_restock_item_4)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 126, in test_restock_item_4
+    self.assertEqual(vendingMachine.restock_item('Pizza', 10), True)
+AssertionError: False != True
+
+======================================================================
+FAIL: test_restock_item_5 (tests_VendingMachine.VendingMachineTestRestockItem.test_restock_item_5)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_VendingMachine.py", line 132, in test_restock_item_5
+    self.assertEqual(vendingMachine.restock_item('Pizza', 0), True)
+AssertionError: False != True
+
+======================================================================
+FAIL: test_query_2 (tests_WeatherSystem.WeatherSystemTestQuery.test_query_2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/imran/Desktop/cs-5001/prompting/CS-5001-AI-Augmented-SE/Week 1/in-class-exercise/Code-Translation/output_code_translation/test/tests_WeatherSystem.py", line 36, in test_query_2
+    self.assertEqual(weatherSystem.query(weather_list), False)
+AssertionError: (0.0, '') != False
+
+----------------------------------------------------------------------
+Ran 442 tests in 0.026s
+
+FAILED (failures=62, errors=44)
+Error writing JSON file: [Errno 2] No such file or directory: ''

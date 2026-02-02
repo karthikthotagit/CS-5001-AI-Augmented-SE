@@ -10,11 +10,9 @@ RULE PRECEDENCE
 
 SOME COMMON RULES:
 
-1. TYPES AND CONTAINERS
-- std::string → str
-- std::vector<T> → list
-- std::map<K,V> / unordered_map → dict
-- std::set<T> → set
+1. STRUCTS VS CLASSES
+- If a C++ type is a struct or a data-only class (fields only, plus constructors or destructor), represent values as dicts.
+- If a C++ class has real behavior (non-trivial methods), represent it as a Python class.
 
 2. RETURN VALUES
 - true -> True
@@ -28,15 +26,3 @@ SOME COMMON RULES:
 - null → None.
 - pair → dict.
 
-You MUST make sure to return correctly in Python format.
-
-3. BUILT-INS
-- Use ord, len, str, int, float.
-- Do not call magic methods directly.
-
-4. STRUCTS VS CLASSES
-- If a C++ type is a struct or a data-only class (fields only, plus constructors or destructor), represent values as dicts.
-- Dict keys must be logical field names.
-- If a C++ class has real behavior (non-trivial methods), represent it as a Python class.
-- Never invent wrapper classes for plain data.
-- Do not store data-only items as custom Python objects.

@@ -52,7 +52,7 @@ Do NOT normalize if:
 
 ---
 6. METHOD AND FUNCTION SIGNATURES
-- If C++ reference-output patterns not consistent with Python, follow convention.
+- Match callable arity used by tests, not C++ reference-output patterns.
 - If a function returns a status code and also writes output via non-const reference:
   - Drop the output parameter.
   - Return the produced output on success.

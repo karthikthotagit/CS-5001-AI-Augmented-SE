@@ -1,40 +1,40 @@
 import json
-import sys
-from typing import Dict, Any
-
+import os
 
 class CookiesUtil:
-    def __init__(self, cookiesFile: str):
-        self.cookies_file: str = cookiesFile
-        self.cookies: Dict[str, str] = {}
+    def __init__(self, cookiesFile):
+        self.cookies_file = cookiesFile
+        self.cookies = {}
 
-    def get_cookies(self, response: Dict[str, Any]) -> None:
+    def get_cookies(self, response):
         if "cookies" in response:
-            # Expecting a dict of string keys/values
-            self.cookies = dict(response["cookies"])
+            self.cookies = response["cookies"]
         self._save_cookies()
 
-    def load_cookies(self) -> Dict[str, Any]:
-        cookies_data: Dict[str, Any] = {}
-        try:
-            with open(self.cookies_file, "r", encoding="utf-8") as file:
-                cookies_data = json.load(file)
-        except FileNotFoundError:
-            # File doesn't exist – return empty dict
-            pass
-        except Exception as e:
-            print(f"Error reading JSON file: {e}", file=sys.stderr)
-        return cookies_data
+    def load_cookies(self):
+        cookiesData = {}
+        if os.path.exists(self.cookies_file):
+            try:
+                with open(self.cookies_file, 'r') as file:
+                    cookiesData = json.load(file)
+            except Exception as e:
+                print(f"Error reading JSON file: {e}")
+        return cookiesData
 
-    def _save_cookies(self) -> bool:
+    def _save_cookies(self):
+        cookiesJson = self.cookies
         try:
-            with open(self.cookies_file, "w", encoding="utf-8") as file:
-                json.dump(self.cookies, file, indent=4)
+            with open(self.cookies_file, 'w') as file:
+                json.dump(cookiesJson, file, indent=4)
             return True
         except Exception as e:
-            print(f"Error writing JSON file: {e}", file=sys.stderr)
+            print(f"Error writing JSON file: {e}")
             return False
 
-    def set_cookies(self, request: Dict[str, Any]) -> None:
-        cookie_parts = [f"{key}={value}" for key, value in self.cookies.items()]
-        request["cookies"] = "; ".join(cookie_parts)
+    def set_cookies(self, request):
+        oss = []
+        for key, value in self.cookies.items():
+            if oss:
+                oss.append("; ")
+            oss.append(f"{key}={value}")
+        request["cookies"] = "".join(oss)

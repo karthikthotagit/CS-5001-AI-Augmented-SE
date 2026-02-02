@@ -30,7 +30,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--user-prompt-file", required=True, type=Path, help="Prompt template file.")
     ap.add_argument("--system-prompt-file", required=True, type=Path, help="System prompt file.")
-    ap.add_argument("--model", default="gpt-oss:120b-cloud", help="Ollama model name.")
+    ap.add_argument("--model", default="devstral-small-2:24b-cloud", help="Ollama model name.")
     ap.add_argument("--base-url", default=None, help="Optional Ollama base URL, e.g. http://localhost:11434")
     ap.add_argument("--temperature", type=float, default=0.0)
     ap.add_argument("--num-ctx", type=int, default=4096 * 16)

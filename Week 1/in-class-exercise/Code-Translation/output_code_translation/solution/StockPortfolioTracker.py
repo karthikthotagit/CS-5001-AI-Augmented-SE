@@ -1,89 +1,58 @@
-from dataclasses import dataclass
-from typing import List, Tuple
-
-
-@dataclass(eq=False)
-class Stock:
-    name: str
-    price: float
-    quantity: int
-
-    def __eq__(self, other: object) -> bool:
-        if not isinstance(other, Stock):
-            return NotImplemented
-        return (
-            self.name == other.name
-            and self.price == other.price
-            and self.quantity == other.quantity
-        )
-
-
-@dataclass(eq=False)
-class StockSummary:
-    name: str
-    value: float
-
-    def __eq__(self, other: object) -> bool:
-        if not isinstance(other, StockSummary):
-            return NotImplemented
-        return self.name == other.name and self.value == other.value
-
-
 class StockPortfolioTracker:
-    def __init__(self, cash_balance: float):
-        self.cash_balance: float = cash_balance
-        self.portfolio: List[Stock] = []
+    def __init__(self, cash_balance):
+        self.portfolio = []
+        self.cash_balance = cash_balance
 
-    def add_stock(self, stock: Stock) -> None:
+    def add_stock(self, stock):
         for pf in self.portfolio:
-            if pf.name == stock.name:
-                pf.quantity += stock.quantity
+            if pf['name'] == stock['name']:
+                pf['quantity'] += stock['quantity']
                 return
-        self.portfolio.append(Stock(stock.name, stock.price, stock.quantity))
+        self.portfolio.append(stock)
 
-    def remove_stock(self, stock: Stock) -> bool:
-        for idx, pf in enumerate(self.portfolio):
-            if pf.name == stock.name and pf.quantity >= stock.quantity:
-                pf.quantity -= stock.quantity
-                if pf.quantity == 0:
-                    del self.portfolio[idx]
+    def remove_stock(self, stock):
+        for i, pf in enumerate(self.portfolio):
+            if pf['name'] == stock['name'] and pf['quantity'] >= stock['quantity']:
+                pf['quantity'] -= stock['quantity']
+                if pf['quantity'] == 0:
+                    self.portfolio.pop(i)
                 return True
         return False
 
-    def buy_stock(self, stock: Stock) -> bool:
-        total_price = stock.price * stock.quantity
-        if total_price > self.cash_balance:
+    def buy_stock(self, stock):
+        if stock['price'] * stock['quantity'] > self.cash_balance:
             return False
-        self.add_stock(stock)
-        self.cash_balance -= total_price
-        return True
+        else:
+            self.add_stock(stock)
+            self.cash_balance -= stock['price'] * stock['quantity']
+            return True
 
-    def sell_stock(self, stock: Stock) -> bool:
+    def sell_stock(self, stock):
         if not self.remove_stock(stock):
             return False
-        self.cash_balance += stock.price * stock.quantity
+        self.cash_balance += stock['price'] * stock['quantity']
         return True
 
-    def calculate_portfolio_value(self) -> float:
+    def calculate_portfolio_value(self):
         total_value = self.cash_balance
         for stock in self.portfolio:
-            total_value += stock.price * stock.quantity
+            total_value += stock['price'] * stock['quantity']
         return total_value
 
-    def get_portfolio_summary(self) -> Tuple[float, List[StockSummary]]:
-        summary: List[StockSummary] = []
+    def get_portfolio_summary(self):
+        summary = []
         for stock in self.portfolio:
-            summary.append(StockSummary(stock.name, self.get_stock_value(stock)))
-        return self.calculate_portfolio_value(), summary
+            summary.append({'name': stock['name'], 'value': self.get_stock_value(stock)})
+        return (self.calculate_portfolio_value(), summary)
 
-    def get_stock_value(self, stock: Stock) -> float:
-        return stock.price * stock.quantity
+    def get_stock_value(self, stock):
+        return stock['price'] * stock['quantity']
 
-    def get_portfolio(self) -> List[Stock]:
+    def get_portfolio(self):
         return self.portfolio
 
-    def get_cash_balance(self) -> float:
+    def get_cash_balance(self):
         return self.cash_balance
 
-    def set_portfolio(self, p: List[Stock]) -> None:
+    def set_portfolio(self, p):
         self.portfolio = p
