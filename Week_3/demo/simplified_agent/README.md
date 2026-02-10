@@ -91,7 +91,7 @@ cca --repo output/demo_streamlit_calculator commit  --message "Add calculator mo
 ```
 
 ```bash
-cca --repo output/demo_streamlit_prime_checker --verbose create --desc "A streamlit prime checker project"  --module src/calculator.py
+cca --repo output/demo_streamlit_prime_checker --verbose create --desc "A streamlit prime checker project"  --module src/prime.py
 
 cca --repo output/demo_streamlit_prime_checker commit  --message "Add prime checker in streamlit"  --push
 ```
