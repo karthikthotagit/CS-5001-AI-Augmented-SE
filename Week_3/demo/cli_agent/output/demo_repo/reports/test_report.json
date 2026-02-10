@@ -1,0 +1,17 @@
+{
+  "agent_config": {
+    "host": "http://localhost:11434",
+    "max_iters": 3,
+    "model": "devstral-small-2:24b-cloud",
+    "repo": "output/demo_repo",
+    "temperature": 0.0,
+    "verbose": true
+  },
+  "command": "coverage run -m pytest -q && coverage json -o .coverage.json",
+  "module_coverage": {},
+  "module_path": null,
+  "pytest_output": ".................                                                        [100%]\n17 passed in 0.03s\nWrote JSON report to .coverage.json",
+  "tests_passed": true,
+  "timestamp_utc": "2026-02-10T19:28:24.657516+00:00",
+  "total_coverage_percent": 100.0
+}
