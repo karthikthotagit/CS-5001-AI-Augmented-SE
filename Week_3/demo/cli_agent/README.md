@@ -47,3 +47,7 @@ Example 3:
 ```
 cca --repo output/demo_flask full --desc "Create a minimal project with FLASK" --module src/flask.py --tests tests/test_flask.py --coverage "at least 80 percent"
 ```
+
+```
+cca --repo output/demo_streamlit full --desc "Create a project with Streamlit that shows a number is prime or not after taking an input" --module src/app.py --tests tests/test_app.py --coverage "at least 80 percent"
+```
