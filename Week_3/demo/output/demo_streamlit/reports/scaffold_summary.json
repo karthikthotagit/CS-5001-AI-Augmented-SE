@@ -1,0 +1,10 @@
+{
+  "out_dir": ".",
+  "rejected": [],
+  "skipped": [
+    "requirements.txt",
+    "src/app.py",
+    "src/services/credit_card_service.py"
+  ],
+  "written": []
+}
