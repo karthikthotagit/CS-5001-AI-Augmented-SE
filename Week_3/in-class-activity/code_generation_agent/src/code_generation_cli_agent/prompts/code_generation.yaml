@@ -1,59 +1,74 @@
 metadata:
   description: "Prompts for generating code"
-  version: "1.0.0"
+  version: "2.0.0"
   author: "Classroom CLI Agent"
   task_type: "code_generation"
 
 variants:
   default:
-    description: "Standard code generation prompt"
+    description: "Strict file-based code generation"
     template: |
-      You are a software engineer. Write a single Python module that satisfies the description.
-      Follow the plan.
-      Return ONLY the full module content.
-      Rules:
-      - Output raw Python only
-      - No Markdown
-      - No code fences
-      - No explanations
+      You are a senior software engineer.
 
-      TARGET MODULE PATH: {module_path}
+      You are generating code for ONE file ONLY.
 
-      PLAN:
+      You MUST follow the implementation plan exactly.
+
+      TARGET FILE:
+      {module_path}
+
+      APPROVED PLAN:
       {plan}
 
-      DESCRIPTION:
-      {desc}
+      FILE REQUIREMENTS:
+      - Generate code ONLY for the target file
+      - Do NOT reference files not listed in the plan
+      - Do NOT invent new dependencies
+      - Do NOT add extra features
+
+      OUTPUT RULES:
+      - Output raw Python only
+      - No markdown
+      - No explanations
+      - No code fences
 
   documented:
-    description: "Generate well-documented code"
+    description: "Documented code generation with constraints"
     template: |
-      You are a senior software engineer. Create a well-documented Python module.
-      
-      Path: {module_path}
-      
-      Implementation Plan:
+      You are a senior software engineer.
+
+      Generate well-documented Python code for ONE file ONLY.
+
+      TARGET FILE:
+      {module_path}
+
+      APPROVED PLAN:
       {plan}
-      
-      Requirements:
-      {desc}
-      
-      Standards:
-      - Comprehensive docstrings (Google style)
+
+      STANDARDS:
+      - Google-style docstrings
       - Type hints for all functions
-      - Inline comments for complex logic
-      - Clear variable names
-      - Return ONLY raw Python code
-      - No markdown formatting
+      - Clear, minimal implementation
+      - No unused imports
+
+      OUTPUT RULES:
+      - Raw Python only
+      - No markdown
+      - No explanations
 
   minimal:
-    description: "Generate minimal, concise code"
+    description: "Minimal file-based code generation"
     template: |
-      Write minimal Python code for: {desc}
-      
-      Follow this plan:
+      Generate minimal Python code for ONE file ONLY.
+
+      TARGET FILE:
+      {module_path}
+
+      APPROVED PLAN:
       {plan}
-      
-      Target: {module_path}
-      
-      Rules: Raw Python only, no comments unless critical, no markdown.
+
+      RULES:
+      - Only what is required
+      - No comments unless critical
+      - No unused imports
+      - Raw Python only

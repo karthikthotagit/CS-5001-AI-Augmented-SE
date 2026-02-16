@@ -1,53 +1,45 @@
 metadata:
   description: "Prompts for creating implementation plans"
-  version: "1.0.0"
+  version: "2.0.0"
   author: "Classroom CLI Agent"
   task_type: "planning"
 
 variants:
   default:
-    description: "Standard planning prompt for code generation"
+    description: "Repository-level planning prompt"
     template: |
-      You are a senior software engineer. Create a short, actionable implementation plan with ordered steps.
-      
-      Constraints:
-      - Keep the solution minimal and readable
-      - Assume standard library only unless the description requires otherwise
-      - Do not write code yet
-      - Output plain text only
+      You are a senior software engineer.
 
-      TARGET MODULE PATH: {module_path}
+      Your task is to create a clear, minimal implementation plan
+      BEFORE any code is written.
+
+      DO NOT write any code.
 
       DESCRIPTION:
       {desc}
 
-  detailed:
-    description: "More detailed planning with architecture considerations"
-    template: |
-      You are a senior software architect. Create a comprehensive implementation plan.
-      
-      TARGET MODULE PATH: {module_path}
-      
-      REQUIREMENTS:
-      {desc}
-      
-      Your plan should include:
-      1. Architecture overview
-      2. Key components and their responsibilities
-      3. Data structures needed
-      4. Function signatures
-      5. Dependencies (prefer standard library)
-      6. Edge cases to handle
-      7. Testing considerations
-      
-      Output as numbered steps in plain text.
+      Output the plan in the following EXACT format:
 
-  minimal:
-    description: "Quick planning for simple tasks"
-    template: |
-      Create a brief plan (3-5 steps) for implementing:
-      {desc}
-      
-      Target file: {module_path}
-      
-      Keep it simple and actionable.
+      FILE LIST:
+      - List every file that will be created (relative paths)
+      - Do NOT include files that are not strictly required
+
+      RESPONSIBILITIES:
+      - For each file, describe its responsibility in one sentence
+
+      DEPENDENCIES:
+      - List required dependencies
+      - Prefer Python standard library
+      - If none, write: None
+
+      IMPLEMENTATION STEPS:
+      - Ordered, high-level steps to implement the solution
+
+      CONSTRAINTS:
+      - Keep the solution minimal
+      - Do not invent features
+      - Do not include tests unless explicitly requested
+      - Do not include configuration files unless required
+
+      Output plain text only.
+
