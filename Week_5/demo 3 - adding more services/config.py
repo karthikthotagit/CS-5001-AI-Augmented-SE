@@ -52,3 +52,4 @@ CANVAS_AUTO_REPLY    = False          # True = post AI replies to conversations 
 CANVAS_GATEWAY_HOST  = "127.0.0.1"
 CANVAS_GATEWAY_PORT  = 5002
 CANVAS_GATEWAY_DEBUG = False
+
